@@ -662,5 +662,22 @@
         "llms-full-txt-tokens": 0,
         "llms-txt": "https://blog.calendarscripts.info/llms.txt",
         "llms-txt-tokens": 8661
+    },
+    {
+        "product": "The Data Driven Marketer",
+        "website": "https://datadrivenmarketer.me",
+        "llms-full-txt": null,
+        "llms-full-txt-tokens": 0,
+        "llms-txt": "https://datadrivenmarketer.me/llms.txt",
+        "llms-txt-tokens": 304
+    },
+       {
+        "product": "Trackingplan",
+        "website": "https://www.trackingplan.com/",
+        "llms-full-txt": null,
+        "llms-full-txt-tokens": 0,
+        "llms-txt": "https://www.trackingplan.com/llms.txt",
+        "llms-txt-tokens": 4241
     }
+    
 ]
