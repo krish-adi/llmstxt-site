@@ -568,6 +568,14 @@
         "llms-txt-tokens": 4874
     },
     {
+        "product": "Svelte",
+        "website": "https://svelte.dev/",
+        "llms-full-txt": "https://svelte.dev/llms-full.txt",
+        "llms-full-txt-tokens": 216219,
+        "llms-txt": "https://svelte.dev/llms.txt",
+        "llms-txt-tokens": 280
+    },
+    {
         "product": "Tavus",
         "website": "https://www.tavus.io/",
         "llms-full-txt": "https://docs.tavus.io/llms-full.txt",
