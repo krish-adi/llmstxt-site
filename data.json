@@ -488,6 +488,14 @@
         "llms-txt-tokens": 3013
     },
     {
+        "product": "POPSMASH",
+        "website": "https://www.popsmash.com/",
+        "llms-txt": "https://www.popsmash.com/llms.txt",
+        "llms-txt-tokens": 520,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "PrimeV",
         "website": "https://primev.xyz/",
         "llms-full-txt": "https://docs.primev.xyz/llms-full.txt",
