@@ -718,5 +718,13 @@
         "llms-full-txt-tokens": 39823,
         "llms-txt": "https://llm.rememberizer.ai/llms.txt",
         "llms-txt-tokens": 2025
-    }
+    },
+    {
+        "product": "TheirStack",
+        "website": "https://theirstack.com",
+        "llms-full-txt": "https://theirstack.com/docs/llms-full.txt",
+        "llms-full-txt-tokens": 6215,
+        "llms-txt": "https://theirstack.com/docs/llms.txt",
+        "llms-txt-tokens": 83
+    },
 ]
