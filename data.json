@@ -80,6 +80,14 @@
         "llms-txt-tokens": 1654
     },
     {
+        "product": "Clever Cloud",
+        "website": "https://clever-cloud.com/",
+        "llms-txt": "https://www.clever-cloud.com/developers/llms.txt",
+        "llms-txt-tokens": 4273,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "Cobo",
         "website": "https://cobo.com/",
         "llms-full-txt": "https://www.cobo.com/developers/llms-full.txt",
@@ -440,6 +448,14 @@
         "llms-txt-tokens": 2098
     },
     {
+        "product": "Mystery-o-matic",
+        "website": "https://mystery-o-matic.com/",
+        "llms-txt": "https://mystery-o-matic.com/llms.txt",
+        "llms-txt-tokens": 1534,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "OpenPhone",
         "website": "https://openphone.com/",
         "llms-txt": "https://www.openphone.com/docs/llms.txt",
@@ -528,6 +544,14 @@
         "llms-txt-tokens": 4
     },
     {
+        "product": "RainbowKit",
+        "website": "https://rainbowkit.com/",
+        "llms-full-txt": "https://rainbowkit.com/llms-full.txt",
+        "llms-full-txt-tokens": 261091,
+        "llms-txt": "https://rainbowkit.com/llms.txt",
+        "llms-txt-tokens": 660
+    },
+    {
         "product": "Resend",
         "website": "https://resend.com/",
         "llms-full-txt": "https://resend.com/docs/llms-full.txt",
@@ -606,6 +630,14 @@
         "llms-full-txt-tokens": 341519,
         "llms-txt": "https://www.tinybird.co/docs/llms.txt",
         "llms-txt-tokens": 3109
+    },
+    {
+        "product": "Trail of Bits",
+        "website": "https://www.trailofbits.com",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://www.trailofbits.com/llms.txt",
+        "llms-txt-tokens": 3427
     },
     {
         "product": "Trigger.dev",
@@ -726,5 +758,29 @@
         "llms-full-txt-tokens": 39823,
         "llms-txt": "https://llm.rememberizer.ai/llms.txt",
         "llms-txt-tokens": 2025
+    },
+    {
+        "product": "Webrecorder",
+        "website": "https://webrecorder.net/",
+        "llms-txt": "https://webrecorder.net/llms.txt",
+        "llms-txt-tokens": 944,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
+        "product": "TheirStack",
+        "website": "https://theirstack.com",
+        "llms-full-txt": "https://theirstack.com/docs/llms-full.txt",
+        "llms-full-txt-tokens": 6215,
+        "llms-txt": "https://theirstack.com/docs/llms.txt",
+        "llms-txt-tokens": 83
+    },
+    {
+        "product": "Lots of CSVs",
+        "website": "https://lotsofcsvs.com",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": 835,
+        "llms-txt": "https://lotsofcsvs.com/llms.txt",
+        "llms-txt-tokens": 83
     }
 ]

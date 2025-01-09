@@ -19,41 +19,50 @@ DATA_RAW_PATH = os.path.join(os.path.dirname(SCRIPTS_PATH), "data.json")
 
 data_raw = json.load(open(DATA_RAW_PATH))
 
+existing_products = [
+    d
+    for d in os.listdir(LLMSTXT_FILES_PATH)
+    if os.path.isdir(os.path.join(LLMSTXT_FILES_PATH, d))
+]
+
 # Loop through each company
 for product in tqdm(data_raw):
     product_name = product["product"]
     product_dir = os.path.join(LLMSTXT_FILES_PATH, product_name)
 
-    # Create product directory if it doesn't exist
-    if not os.path.exists(product_dir):
-        os.makedirs(product_dir)
+    if product_name not in existing_products:
+        print(f"Preparing data for: {product_name}")
 
-    product_json = create_product_json(product, product_dir)
-    product_redirects = create_product_redirects(product)
+        # Create product directory if it doesn't exist
+        if not os.path.exists(product_dir):
+            os.makedirs(product_dir)
 
-    print(product_json)
-    print(product_redirects)
+        product_json = create_product_json(product, product_dir)
+        product_redirects = create_product_redirects(product)
 
-    # Append to products.jsonl
-    products_jsonl_path = os.path.join(RUN_ASSETS_PATH, "products.jsonl")
-    with open(products_jsonl_path, "a", encoding="utf-8") as f:
-        json.dump(product_json, f)
-        f.write("\n")
+        print(product_json)
+        print(product_redirects)
 
-    # Append to redirects.jsonl
-    redirects_jsonl_path = os.path.join(RUN_ASSETS_PATH, "redirects.jsonl")
-    with open(redirects_jsonl_path, "a", encoding="utf-8") as f:
-        for redirect in product_redirects:
-            json.dump(redirect, f)
+        # Append to products.jsonl
+        products_jsonl_path = os.path.join(RUN_ASSETS_PATH, "products.jsonl")
+        with open(products_jsonl_path, "a", encoding="utf-8") as f:
+            json.dump(product_json, f)
             f.write("\n")
 
-    # Update status.json
-    status_path = os.path.join(RUN_ASSETS_PATH, "status.jsonl")
-    status = {"product": product_name, "status": "done"}
+        # Append to redirects.jsonl
+        redirects_jsonl_path = os.path.join(RUN_ASSETS_PATH, "redirects.jsonl")
+        with open(redirects_jsonl_path, "a", encoding="utf-8") as f:
+            for redirect in product_redirects:
+                json.dump(redirect, f)
+                f.write("\n")
 
-    with open(status_path, "a", encoding="utf-8") as f:
-        json.dump(status, f)
-        f.write("\n")
+        # Update status.json
+        status_path = os.path.join(RUN_ASSETS_PATH, "status.jsonl")
+        status = {"product": product_name, "status": "done"}
+
+        with open(status_path, "a", encoding="utf-8") as f:
+            json.dump(status, f)
+            f.write("\n")
 
 
 # Path to products.jsonl and redirects.jsonl in run-assets folder

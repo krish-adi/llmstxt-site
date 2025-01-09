@@ -3,8 +3,8 @@
 
 .PHONY: run
 run:
-	python scripts/run.py
+	uv run scripts/run.py
 
 .PHONY: clear
 clear:
-	python scripts/clear.py
+	uv run scripts/clear.py
