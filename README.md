@@ -26,6 +26,10 @@ We welcome contributions to this repository to expand the collection of /llms.tx
 
 2. Edit the data.json file located in the root directory of this repository. Each entry in the JSON file should contain:
 
+You can leave the tokens fields empty: they'll be calculated automatically when your PR is merged.
+
+If you don't have a full-txt file, you can leave the `llms-full-txt` and `llms-full-txt-tokens` fields empty.
+
 Here is an example entry:
 
 ```json

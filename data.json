@@ -32,6 +32,22 @@
         "llms-txt-tokens": 159282
     },
     {
+        "product": "Apify",
+        "website": "https://apify.com/",
+        "llms-txt": "https://apify.com/llms.txt",
+        "llms-txt-tokens": 1764,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
+        "product": "Apify Documentation",
+        "website": "https://docs.apify.com/",
+        "llms-txt": "https://docs.apify.com/llms.txt",
+        "llms-txt-tokens": 1038,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "Aporia",
         "website": "https://aporia.com/",
         "llms-txt": "https://gr-docs.aporia.com/llms.txt",
@@ -94,6 +110,14 @@
         "llms-full-txt-tokens": 178626,
         "llms-txt": "https://www.cobo.com/developers/llms.txt",
         "llms-txt-tokens": 21788
+    },
+    {
+        "product": "Cog",
+        "website": "https://cog.run/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://cog.run/llms.txt",
+        "llms-txt-tokens": null
     },
     {
         "product": "CrewAI",
@@ -374,6 +398,14 @@
         "llms-full-txt-tokens": 284187,
         "llms-txt": "https://getlago.com/docs/llms.txt",
         "llms-txt-tokens": 8663
+    },
+    {
+        "product": "Liam ERD",
+        "website": "https://liambx.com/",
+        "llms-txt": "",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "https://liambx.com/docs/llms-full.txt",
+        "llms-full-txt-tokens": 8831
     },
     {
         "product": "Langfuse",
@@ -703,6 +735,14 @@
         "llms-txt": "https://upstash.com/docs/llms.txt",
         "llms-txt-tokens": 24181
     },
+    { 
+        "product": "Upsun", 
+        "website": "https://docs.upsun.com/", 
+        "llms-full-txt": "https://docs.upsun.com/llms-full.txt", 
+        "llms-full-txt-tokens": 528795,
+        "llms-txt": "https://docs.upsun.com/llms.txt", 
+        "llms-txt-tokens": 24430
+    },
     {
         "product": "Velt",
         "website": "https://velt.dev/",
@@ -822,5 +862,12 @@
         "llms-full-txt-tokens": 4787,
         "llms-txt": "https://sureshkumarg.com/llms.txt",
         "llms-txt-tokens": 987
+    {
+        "product": "Manifestly Checklists",
+        "website": "https://manifest.ly/",
+        "llms-full-txt": "https://manifest.ly/llms-full.txt",
+        "llms-full-txt-tokens": 4731,
+        "llms-txt": "https://manifest.ly/llms.txt",
+        "llms-txt-tokens": 598
     }
 ]
