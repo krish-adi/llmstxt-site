@@ -872,5 +872,13 @@
         "llms-txt": "https://docs.expo.dev/llms.txt",
         "llms-txt-tokens": 15310
 
+    },
+    {
+        "product": "Farhan Srambiyan",
+        "website": "https://far.hn/",
+        "llms-full-txt": "https://far.hn/llms-full.txt",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://far.hn/llms.txt",
+        "llms-txt-tokens":null
     }
 ]
