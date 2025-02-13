@@ -296,6 +296,14 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "GoldRush",
+        "website": "https://ongoody.com/",
+        "llms-txt": "https://goldrush.dev/llms.txt",
+        "llms-txt-tokens": "",
+        "llms-full-txt": "https://goldrush.dev/docs/llms-full.txt",
+        "llms-full-txt-tokens": ""
+    },
+    {
         "product": "Helicone",
         "website": "https://helicone.ai/",
         "llms-txt": "https://www.helicone.ai/llms.txt",
