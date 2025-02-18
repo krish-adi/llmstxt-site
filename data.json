@@ -909,5 +909,10 @@
         "website": "https://www.zenml.io/",
         "llms-full-txt": "https://www.zenml.io/llms-full.txt",
         "llms-txt": "https://www.zenml.io/llms.txt"
+    },
+    {
+        "product": "Blog Pics.io",
+        "website": "https://blog.pics.io/",
+        "llms-txt": "https://blog.pics.io/static/llms.txt"
     }
 ]
