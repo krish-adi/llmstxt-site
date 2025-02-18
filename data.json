@@ -903,11 +903,19 @@
         "llms-txt-tokens": null,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
-    },    
+    },
     {
         "product": "ZenML",
         "website": "https://www.zenml.io/",
         "llms-full-txt": "https://www.zenml.io/llms-full.txt",
         "llms-txt": "https://www.zenml.io/llms.txt"
+    },
+    {
+    "product": "Blog Pics.io",
+    "website": "https://blog.pics.io/",
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": "",
+    "llms-txt": "https://blog.pics.io/static/llms.txt",
+    "llms-txt-tokens": ""
     }
 ]
