@@ -1,974 +1,981 @@
 [
-   {
-        "product": "Azumuta",
-        "website": "https://www.azumuta.com/",
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null,
-        "llms-txt": "https://www.azumuta.com/llms.txt",
-        "llms-txt-tokens": ""
-   },
-   {
-        "product": "WordLift",
-        "website": "https://wordlift.io/",
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null,
-        "llms-txt": "https://wordlift.io/llms.txt",
-        "llms-txt-tokens": 649
-    },
-    {
-        "product": "Activepieces",
-        "website": "https://activepieces.com/",
-        "llms-full-txt": "https://www.activepieces.com/docs/llms-full.txt",
-        "llms-full-txt-tokens": 43666,
-        "llms-txt": "https://www.activepieces.com/docs/llms.txt",
-        "llms-txt-tokens": 3649
-    },
-    {
-        "product": "AI Squared",
-        "website": "https://squared.ai/",
-        "llms-full-txt": "https://docs.squared.ai/llms-full.txt",
-        "llms-full-txt-tokens": 68849,
-        "llms-txt": "https://docs.squared.ai/llms.txt",
-        "llms-txt-tokens": 3594
-    },
-    {
-        "product": "Answer.AI",
-        "website": "https://answer.ai/",
-        "llms-txt": "https://www.answer.ai/llms.txt",
-        "llms-txt-tokens": 180,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Anthropic",
-        "website": "https://anthropic.com/",
-        "llms-full-txt": "https://docs.anthropic.com/llms-full.txt",
-        "llms-full-txt-tokens": 313919,
-        "llms-txt": "https://docs.anthropic.com/llms.txt",
-        "llms-txt-tokens": 159282
-    },
-    {
-        "product": "Apify",
-        "website": "https://apify.com/",
-        "llms-txt": "https://docs.apify.com/llms.txt",
-        "llms-txt-tokens": 2503,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Aporia",
-        "website": "https://aporia.com/",
-        "llms-txt": "https://gr-docs.aporia.com/llms.txt",
-        "llms-txt-tokens": 2653,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Aptible",
-        "website": "https://aptible.com/",
-        "llms-full-txt": "https://www.aptible.com/docs/llms-full.txt",
-        "llms-full-txt-tokens": 241445,
-        "llms-txt": "https://www.aptible.com/docs/llms.txt",
-        "llms-txt-tokens": 10719
-    },
-    {
-        "product": "Argil AI",
-        "website": "https://argil.ai/",
-        "llms-txt": "https://docs.argil.ai/llms.txt",
-        "llms-txt-tokens": 661,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Axiom",
-        "website": "https://axiom.co/",
-        "llms-full-txt": "https://axiom.co/docs/llms-full.txt",
-        "llms-full-txt-tokens": 327637,
-        "llms-txt": "https://axiom.co/docs/llms.txt",
-        "llms-txt-tokens": 7997
-    },
-    {
-        "product": "Axle",
-        "website": "https://axle.insure/",
-        "llms-txt": "https://docs.axle.insure/llms.txt",
-        "llms-txt-tokens": 1424,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "BaseHub",
-        "website": "https://basehub.com/",
-        "llms-full-txt": "https://docs.basehub.com/llms-full.txt",
-        "llms-full-txt-tokens": 22961,
-        "llms-txt": "https://docs.basehub.com/llms.txt",
-        "llms-txt-tokens": 1654
-    },
-    {
-        "product": "Clever Cloud",
-        "website": "https://clever-cloud.com/",
-        "llms-txt": "https://www.clever-cloud.com/developers/llms.txt",
-        "llms-txt-tokens": 4273,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Cobo",
-        "website": "https://cobo.com/",
-        "llms-full-txt": "https://www.cobo.com/developers/llms-full.txt",
-        "llms-full-txt-tokens": 178626,
-        "llms-txt": "https://www.cobo.com/developers/llms.txt",
-        "llms-txt-tokens": 21788
-    },
-    {
-        "product": "Cog",
-        "website": "https://cog.run/",
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null,
-        "llms-txt": "https://cog.run/llms.txt",
-        "llms-txt-tokens": null
-    },
-    {
-        "product": "CrewAI",
-        "website": "https://crewai.com/",
-        "llms-full-txt": "https://docs.crewai.com/llms-full.txt",
-        "llms-full-txt-tokens": 64146,
-        "llms-txt": "https://docs.crewai.com/llms.txt",
-        "llms-txt-tokens": 2589
-    },
-    {
-        "product": "Cursor",
-        "website": "https://cursor.com/",
-        "llms-full-txt": "https://docs.cursor.com/llms-full.txt",
-        "llms-full-txt-tokens": 9602,
-        "llms-txt": "https://docs.cursor.com/llms.txt",
-        "llms-txt-tokens": 589
-    },
-    {
-        "product": "Datafold",
-        "website": "https://datafold.com/",
-        "llms-full-txt": "https://docs.datafold.com/llms-full.txt",
-        "llms-full-txt-tokens": 90348,
-        "llms-txt": "https://docs.datafold.com/llms.txt",
-        "llms-txt-tokens": 4998
-    },
-    {
-        "product": "Dopp Finance",
-        "website": "https://dopp.finance/",
-        "llms-txt": "https://docs.dopp.finance/llms.txt",
-        "llms-txt-tokens": 2952,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "dotenvx",
-        "website": "https://dotenvx.com/",
-        "llms-full-txt": "https://dotenvx.com/llms-full.txt",
-        "llms-full-txt-tokens": 14704,
-        "llms-txt": "https://dotenvx.com/llms.txt",
-        "llms-txt-tokens": 3143
-    },
-    {
-        "product": "Dub",
-        "website": "https://dub.co/",
-        "llms-full-txt": "https://dub.co/docs/llms-full.txt",
-        "llms-full-txt-tokens": 100756,
-        "llms-txt": "https://dub.co/docs/llms.txt",
-        "llms-txt-tokens": 2831
-    },
-    {
-        "product": "DuckDB",
-        "website": "https://duckdb.org/",
-        "llms-full-txt": "https://duckdb.org/duckdb-docs.md",
-        "llms-full-txt-tokens": 738849,
-        "llms-txt": "",
-        "llms-txt-tokens": null
-    },
-    {
-        "product": "Dynamic",
-        "website": "https://dynamic.xyz/",
-        "llms-full-txt": "https://docs.dynamic.xyz/llms-full.txt",
-        "llms-full-txt-tokens": 204260,
-        "llms-txt": "https://docs.dynamic.xyz/llms.txt",
-        "llms-txt-tokens": 16382
-    },
-    {
-        "product": "ElevenLabs",
-        "website": "https://elevenlabs.io/",
-        "llms-full-txt": "https://elevenlabs.io/docs/llms-full.txt",
-        "llms-full-txt-tokens": 123215,
-        "llms-txt": "https://elevenlabs.io/docs/llms.txt",
-        "llms-txt-tokens": 5528
-    },
-    {
-        "product": "EmbedChain",
-        "website": "https://embedchain.ai/",
-        "llms-full-txt": "https://docs.embedchain.ai/llms-full.txt",
-        "llms-full-txt-tokens": 62353,
-        "llms-txt": "https://docs.embedchain.ai/llms.txt",
-        "llms-txt-tokens": 2244
-    },
-    {
-        "product": "Envoyer",
-        "website": "https://envoyer.io/",
-        "llms-full-txt": "https://docs.envoyer.io/llms-full.txt",
-        "llms-full-txt-tokens": 5608,
-        "llms-txt": "https://docs.envoyer.io/llms.txt",
-        "llms-txt-tokens": 271
-    },
-    {
-        "product": "Evan Boehs",
-        "website": "https://boehs.org/",
-        "llms-txt": "https://boehs.org/llms.txt",
-        "llms-txt-tokens": 133,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Fabric",
-        "website": "https://fabric.inc/",
-        "llms-full-txt": "https://developer.fabric.inc/llms-full.txt",
-        "llms-full-txt-tokens": 309219,
-        "llms-txt": "https://developer.fabric.inc/llms.txt",
-        "llms-txt-tokens": 77790
-    },
-    {
-        "product": "FastHTML",
-        "website": "https://fastht.ml/",
-        "llms-txt": "https://docs.fastht.ml/llms.txt",
-        "llms-txt-tokens": 754,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Finch",
-        "website": "https://tryfinch.com/",
-        "llms-txt": "https://developer.tryfinch.com/llms.txt",
-        "llms-txt-tokens": 4510,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Fireworks AI",
-        "website": "https://fireworks.ai/",
-        "llms-full-txt": "https://docs.fireworks.ai/llms-full.txt",
-        "llms-full-txt-tokens": 70623,
-        "llms-txt": "https://docs.fireworks.ai/llms.txt",
-        "llms-txt-tokens": 3056
-    },
-    {
-        "product": "Flatfile",
-        "website": "https://flatfile.com/",
-        "llms-full-txt": "https://flatfile.com/docs/llms-full.txt",
-        "llms-full-txt-tokens": 0,
-        "llms-txt": "https://flatfile.com/docs/llms.txt",
-        "llms-txt-tokens": 4984
-    },
-    {
-        "product": "FlowX",
-        "website": "https://flowx.ai/",
-        "llms-full-txt": "https://docs.flowx.ai/llms-full.txt",
-        "llms-full-txt-tokens": 309959,
-        "llms-txt": "https://docs.flowx.ai/llms.txt",
-        "llms-txt-tokens": 49914
-    },
-    {
-        "product": "FractalPay",
-        "website": "https://fractalpay.com/",
-        "llms-txt": "https://docs.fractalpay.com/llms.txt",
-        "llms-txt-tokens": 567,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Frigade",
-        "website": "https://frigade.com/",
-        "llms-txt": "https://docs.frigade.com/llms.txt",
-        "llms-txt-tokens": 3498,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Galileo",
-        "website": "https://rungalileo.io/",
-        "llms-full-txt": "https://docs.rungalileo.io/llms-full.txt",
-        "llms-full-txt-tokens": 144286,
-        "llms-txt": "https://docs.rungalileo.io/llms.txt",
-        "llms-txt-tokens": 8620
-    },
-    {
-        "product": "Goody",
-        "website": "https://ongoody.com/",
-        "llms-txt": "https://developer.ongoody.com/llms.txt",
-        "llms-txt-tokens": 2020,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Helicone",
-        "website": "https://helicone.ai/",
-        "llms-txt": "https://www.helicone.ai/llms.txt",
-        "llms-txt-tokens": 545,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Hugging Face Accelerate",
-        "website": "https://huggingface.co/",
-        "llms-txt": "https://huggingface-projects-docs-llms-txt.hf.space/accelerate/llms.txt",
-        "llms-txt-tokens": 81948,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Hugging Face Diffusers",
-        "website": "https://huggingface.co/",
-        "llms-txt": "https://huggingface-projects-docs-llms-txt.hf.space/diffusers/llms.txt",
-        "llms-txt-tokens": 381810,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Hugging Face Hub",
-        "website": "https://huggingface.co/",
-        "llms-txt": "https://huggingface-projects-docs-llms-txt.hf.space/hub/llms.txt",
-        "llms-txt-tokens": 210058,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Hugging Face Hub Python Library",
-        "website": "https://huggingface.co/",
-        "llms-txt": "https://huggingface-projects-docs-llms-txt.hf.space/huggingface_hub/llms.txt",
-        "llms-txt-tokens": 71931,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Hugging Face Transformers",
-        "website": "https://huggingface.co/",
-        "llms-txt": "https://huggingface-projects-docs-llms-txt.hf.space/transformers/llms.txt",
-        "llms-txt-tokens": 808972,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Hyperline",
-        "website": "https://hyperline.co/",
-        "llms-full-txt": "https://docs.hyperline.co/llms-full.txt",
-        "llms-full-txt-tokens": 327867,
-        "llms-txt": "https://docs.hyperline.co/llms.txt",
-        "llms-txt-tokens": 6364
-    },
-    {
-        "product": "Hypermode",
-        "website": "https://hypermode.com/",
-        "llms-txt": "https://docs.hypermode.com/llms.txt",
-        "llms-txt-tokens": 833,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Infisical",
-        "website": "https://infisical.com/",
-        "llms-full-txt": "https://infisical.com/docs/llms-full.txt",
-        "llms-full-txt-tokens": 282102,
-        "llms-txt": "https://infisical.com/docs/llms.txt",
-        "llms-txt-tokens": 12731
-    },
-    {
-        "product": "Inkeep",
-        "website": "https://inkeep.com/",
-        "llms-full-txt": "https://docs.inkeep.com/llms-full.txt",
-        "llms-full-txt-tokens": 77941,
-        "llms-txt": "https://docs.inkeep.com/llms.txt",
-        "llms-txt-tokens": 3229
-    },
-    {
-        "product": "Intuned",
-        "website": "https://intunedhq.com/",
-        "llms-txt": "https://docs.intunedhq.com/llms.txt",
-        "llms-txt-tokens": 5401,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "IonQ",
-        "website": "https://ionq.com/",
-        "llms-full-txt": "https://docs.ionq.com/llms-full.txt",
-        "llms-full-txt-tokens": 45440,
-        "llms-txt": "https://docs.ionq.com/llms.txt",
-        "llms-txt-tokens": 1921
-    },
-    {
-        "product": "Jazz",
-        "website": "https://jazz.tools/",
-        "llms-full-txt": "https://jazz.tools/llms-full.txt",
-        "llms-full-txt-tokens": 32297,
-        "llms-txt": "https://jazz.tools/llms.txt",
-        "llms-txt-tokens": 2856
-    },
-    {
-        "product": "Lago",
-        "website": "https://getlago.com/",
-        "llms-full-txt": "https://getlago.com/docs/llms-full.txt",
-        "llms-full-txt-tokens": 284187,
-        "llms-txt": "https://getlago.com/docs/llms.txt",
-        "llms-txt-tokens": 8663
-    },
-    {
-        "product": "Liam ERD",
-        "website": "https://liambx.com/",
-        "llms-txt": "",
-        "llms-txt-tokens": null,
-        "llms-full-txt": "https://liambx.com/docs/llms-full.txt",
-        "llms-full-txt-tokens": 8831
-    },
-    {
-        "product": "Langfuse",
-        "website": "https://langfuse.com/",
-        "llms-txt": "https://langfuse.com/llms.txt",
-        "llms-txt-tokens": 8544,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Liveblocks",
-        "website": "https://liveblocks.io/",
-        "llms-full-txt": "https://liveblocks.io/llms-full.txt",
-        "llms-full-txt-tokens": null,
-        "llms-txt": "https://liveblocks.io/llms.txt",
-        "llms-txt-tokens": null
-    },
-    {
-        "product": "llms.txt",
-        "website": "https://llmstxt.org/",
-        "llms-txt": "https://llmstxt.org/llms.txt",
-        "llms-txt-tokens": 158,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Loops",
-        "website": "https://loops.so/",
-        "llms-full-txt": "https://loops.so/docs/llms-full.txt",
-        "llms-full-txt-tokens": 104414,
-        "llms-txt": "https://loops.so/docs/llms.txt",
-        "llms-txt-tokens": 2735
-    },
-    {
-        "product": "LuxAlgo",
-        "website": "https://luxalgo.com/",
-        "llms-full-txt": "https://docs.luxalgo.com/llms-full.txt",
-        "llms-full-txt-tokens": 76131,
-        "llms-txt": "https://docs.luxalgo.com/llms.txt",
-        "llms-txt-tokens": 1586
-    },
-    {
-        "product": "Mangopay",
-        "website": "https://mangopay.com/",
-        "llms-full-txt": "https://docs.mangopay.com/llms-full.txt",
-        "llms-full-txt-tokens": 1602828,
-        "llms-txt": "https://docs.mangopay.com/llms.txt",
-        "llms-txt-tokens": 9955
-    },
-    {
-        "product": "Meilisearch",
-        "website": "https://www.meilisearch.com/",
-        "llms-full-txt": "https://www.meilisearch.com/llms-full.txt",
-        "llms-full-txt-tokens": "",
-        "llms-txt": "https://www.meilisearch.com/llms.txt",
-        "llms-txt-tokens": ""
-    },
-    {
-        "product": "MeshConnect",
-        "website": "https://meshconnect.com/",
-        "llms-full-txt": "https://docs.meshconnect.com/llms-full.txt",
-        "llms-full-txt-tokens": 28652,
-        "llms-txt": "https://docs.meshconnect.com/llms.txt",
-        "llms-txt-tokens": 2545
-    },
-    {
-        "product": "Method Financial",
-        "website": "https://methodfi.com/",
-        "llms-full-txt": "https://docs.methodfi.com/llms-full.txt",
-        "llms-full-txt-tokens": 200761,
-        "llms-txt": "https://docs.methodfi.com/llms.txt",
-        "llms-txt-tokens": 2979
-    },
-    {
-        "product": "Micro1",
-        "website": "https://micro1.ai/",
-        "llms-txt": "https://docs.micro1.ai/llms.txt",
-        "llms-txt-tokens": 629,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Mintlify",
-        "website": "https://mintlify.com/",
-        "llms-full-txt": "https://mintlify.com/docs/llms-full.txt",
-        "llms-full-txt-tokens": 75219,
-        "llms-txt": "https://mintlify.com/docs/llms.txt",
-        "llms-txt-tokens": 2098
-    },
-    {
-        "product": "Mystery-o-matic",
-        "website": "https://mystery-o-matic.com/",
-        "llms-txt": "https://mystery-o-matic.com/llms.txt",
-        "llms-txt-tokens": 1534,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "OpenPhone",
-        "website": "https://openphone.com/",
-        "llms-txt": "https://www.openphone.com/docs/llms.txt",
-        "llms-txt-tokens": 1342,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "OpenPipe",
-        "website": "https://openpipe.ai/",
-        "llms-full-txt": "https://docs.openpipe.ai/llms-full.txt",
-        "llms-full-txt-tokens": 23515,
-        "llms-txt": "https://docs.openpipe.ai/llms.txt",
-        "llms-txt-tokens": 1363
-    },
-    {
-        "product": "Oxla",
-        "website": "https://oxla.com/",
-        "llms-full-txt": "https://docs.oxla.com/llms-full.txt",
-        "llms-full-txt-tokens": 178680,
-        "llms-txt": "https://docs.oxla.com/llms.txt",
-        "llms-txt-tokens": 5989
-    },
-    {
-        "product": "Perplexity",
-        "website": "https://perplexity.ai/",
-        "llms-full-txt": "https://docs.perplexity.ai/llms-full.txt",
-        "llms-full-txt-tokens": 5137,
-        "llms-txt": "https://docs.perplexity.ai/llms.txt",
-        "llms-txt-tokens": 269
-    },
-    {
-        "product": "Pinecone",
-        "website": "https://pinecone.io/",
-        "llms-full-txt": "https://docs.pinecone.io/llms-full.txt",
-        "llms-full-txt-tokens": 27768,
-        "llms-txt": "https://docs.pinecone.io/llms.txt",
-        "llms-txt-tokens": 11222
-    },
-    {
-        "product": "Plain",
-        "website": "https://plain.com/",
-        "llms-full-txt": "https://www.plain.com/docs/llms-full.txt",
-        "llms-full-txt-tokens": 48404,
-        "llms-txt": "https://www.plain.com/docs/llms.txt",
-        "llms-txt-tokens": 3013
-    },
-    {
-        "product": "POPSMASH",
-        "website": "https://www.popsmash.com/",
-        "llms-txt": "https://www.popsmash.com/llms.txt",
-        "llms-txt-tokens": 563,
-        "llms-full-txt": "https://www.popsmash.com/llms-full.txt",
-        "llms-full-txt-tokens": 9026
-    },
-    {
-        "product": "PrimeV",
-        "website": "https://primev.xyz/",
-        "llms-full-txt": "https://docs.primev.xyz/llms-full.txt",
-        "llms-full-txt-tokens": 44009,
-        "llms-txt": "https://docs.primev.xyz/llms.txt",
-        "llms-txt-tokens": 6370
-    },
-    {
-        "product": "ProjectDiscovery",
-        "website": "https://projectdiscovery.io/",
-        "llms-full-txt": "https://docs.projectdiscovery.io/llms-full.txt",
-        "llms-full-txt-tokens": 183667,
-        "llms-txt": "https://docs.projectdiscovery.io/llms.txt",
-        "llms-txt-tokens": 7059
-    },
-    {
-        "product": "Quill",
-        "website": "https://quillsql.com/",
-        "llms-txt": "https://docs.quillsql.com/llms.txt",
-        "llms-txt-tokens": 480,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "raincamp",
-        "website": "https://raincamp.ai/",
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null,
-        "llms-txt": "https://raincamp.ai/llms.txt",
-        "llms-txt-tokens": 4
-    },
-    {
-        "product": "RainbowKit",
-        "website": "https://rainbowkit.com/",
-        "llms-full-txt": "https://rainbowkit.com/llms-full.txt",
-        "llms-full-txt-tokens": 261091,
-        "llms-txt": "https://rainbowkit.com/llms.txt",
-        "llms-txt-tokens": 660
-    },
-    {
-        "product": "Remult",
-        "website": "https://remult.dev/",
-        "llms-full-txt": "https://remult.dev/llms-full.txt",
-        "llms-full-txt-tokens": 180035,
-        "llms-txt": "https://remult.dev/llms.txt",
-        "llms-txt-tokens": 149
-    },
-    {
-        "product": "Resend",
-        "website": "https://resend.com/",
-        "llms-full-txt": "https://resend.com/docs/llms-full.txt",
-        "llms-full-txt-tokens": 121975,
-        "llms-txt": "https://resend.com/docs/llms.txt",
-        "llms-txt-tokens": 3755
-    },
-    {
-        "product": "Roc",
-        "website": "https://roc-lang.org/",
-        "llms-txt": "https://www.roc-lang.org/llms.txt",
-        "llms-txt-tokens": 32322,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Salesbricks",
-        "website": "https://salesbricks.com/",
-        "llms-full-txt": "https://docs.salesbricks.com/llms-full.txt",
-        "llms-full-txt-tokens": 44845,
-        "llms-txt": "https://docs.salesbricks.com/llms.txt",
-        "llms-txt-tokens": 1473
-    },
-    {
-        "product": "Sardine",
-        "website": "https://sardine.ai/",
-        "llms-full-txt": "https://docs.sardine.ai/llms-full.txt",
-        "llms-full-txt-tokens": 7795,
-        "llms-txt": "https://docs.sardine.ai/llms.txt",
-        "llms-txt-tokens": 523
-    },
-    {
-        "product": "Sherlock Domains",
-        "website": "https://sherlockdomains.com/",
-        "llms-full-txt": "https://www.sherlockdomains.com/llms-full.txt",
-        "llms-full-txt-tokens": 3803,
-        "llms-txt": "https://www.sherlockdomains.com/llms.txt",
-        "llms-txt-tokens": 200
-    },
-    {
-        "product": "Smartcar",
-        "website": "https://smartcar.com/",
-        "llms-full-txt": "https://smartcar.com/docs/llms-full.txt",
-        "llms-full-txt-tokens": 108178,
-        "llms-txt": "https://smartcar.com/docs/llms.txt",
-        "llms-txt-tokens": 5687
-    },
-    {
-        "product": "Solid",
-        "website": "https://solidfi.com/",
-        "llms-txt": "https://docs.solidfi.com/llms.txt",
-        "llms-txt-tokens": 7206,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Speakeasy",
-        "website": "https://speakeasy.com/",
-        "llms-txt": "https://www.speakeasy.com/llms.txt",
-        "llms-txt-tokens": 634,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Stedi",
-        "website": "https://stedi.com/",
-        "llms-full-txt": "https://www.stedi.com/docs/llms-full.txt",
-        "llms-full-txt-tokens": 203127,
-        "llms-txt": "https://www.stedi.com/docs/llms.txt",
-        "llms-txt-tokens": 4874
-    },
-    {
-        "product": "Svelte",
-        "website": "https://svelte.dev/",
-        "llms-full-txt": "https://svelte.dev/llms-full.txt",
-        "llms-full-txt-tokens": 216219,
-        "llms-txt": "https://svelte.dev/llms.txt",
-        "llms-txt-tokens": 280
-    },
-    {
-        "product": "Tavus",
-        "website": "https://www.tavus.io/",
-        "llms-full-txt": "https://docs.tavus.io/llms-full.txt",
-        "llms-full-txt-tokens": 32413,
-        "llms-txt": "https://docs.tavus.io/llms.txt",
-        "llms-txt-tokens": 3744
-    },
-    {
-        "product": "Tinybird",
-        "website": "https://tinybird.co/",
-        "llms-full-txt": "https://www.tinybird.co/docs/llms-full.txt",
-        "llms-full-txt-tokens": 341519,
-        "llms-txt": "https://www.tinybird.co/docs/llms.txt",
-        "llms-txt-tokens": 3109
-    },
-    {
-        "product": "Tiptap",
-        "website": "https://tiptap.dev/",
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null,
-        "llms-txt": "https://tiptap.dev/llms.txt",
-        "llms-txt-tokens": 12214
-    },
-    {
-        "product": "Trail of Bits",
-        "website": "https://www.trailofbits.com",
-        "llms-full-txt": "https://www.trailofbits.com/llms-full.txt",
-        "llms-full-txt-tokens": null,
-        "llms-txt": "https://www.trailofbits.com/llms.txt",
-        "llms-txt-tokens": null
-    },
-    {
-        "product": "Trigger.dev",
-        "website": "https://trigger.dev/",
-        "llms-full-txt": "https://trigger.dev/docs/llms-full.txt",
-        "llms-full-txt-tokens": 151419,
-        "llms-txt": "https://trigger.dev/docs/llms.txt",
-        "llms-txt-tokens": 4326
-    },
-    {
-        "product": "Turso",
-        "website": "https://turso.tech/",
-        "llms-full-txt": "https://docs.turso.tech/llms-full.txt",
-        "llms-full-txt-tokens": 75683,
-        "llms-txt": "https://docs.turso.tech/llms.txt",
-        "llms-txt-tokens": 4687
-    },
-    {
-        "product": "UnifyGTM",
-        "website": "https://unifygtm.com/",
-        "llms-txt": "https://docs.unifygtm.com/llms.txt",
-        "llms-txt-tokens": 1864,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Unkey",
-        "website": "https://unkey.com/",
-        "llms-txt": "https://www.unkey.com/docs/llms.txt",
-        "llms-txt-tokens": 3483,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Unstructured",
-        "website": "https://unstructured.io/",
-        "llms-full-txt": "https://docs.unstructured.io/llms-full.txt",
-        "llms-full-txt-tokens": 443330,
-        "llms-txt": "https://docs.unstructured.io/llms.txt",
-        "llms-txt-tokens": 6824
-    },
-    {
-        "product": "Upstash",
-        "website": "https://upstash.com/",
-        "llms-full-txt": "https://upstash.com/docs/llms-full.txt",
-        "llms-full-txt-tokens": 503729,
-        "llms-txt": "https://upstash.com/docs/llms.txt",
-        "llms-txt-tokens": 24181
-    },
-    {
-        "product": "Upsun",
-        "website": "https://docs.upsun.com/",
-        "llms-full-txt": "https://docs.upsun.com/llms-full.txt",
-        "llms-full-txt-tokens": 528795,
-        "llms-txt": "https://docs.upsun.com/llms.txt",
-        "llms-txt-tokens": 24430
-    },
-    {
-        "product": "Velt",
-        "website": "https://velt.dev/",
-        "llms-full-txt": "https://docs.velt.dev/llms-full.txt",
-        "llms-full-txt-tokens": 313810,
-        "llms-txt": "https://docs.velt.dev/llms.txt",
-        "llms-txt-tokens": 11020
-    },
-    {
-        "product": "Vital",
-        "website": "https://tryvital.io/",
-        "llms-full-txt": "https://docs.tryvital.io/llms-full.txt",
-        "llms-full-txt-tokens": 0,
-        "llms-txt": "https://docs.tryvital.io/llms.txt",
-        "llms-txt-tokens": 9902
-    },
-    {
-        "product": "Workflow",
-        "website": "https://workflow.design/",
-        "llms-txt": "https://docs.workflow.design/llms.txt",
-        "llms-txt-tokens": 591,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Zapier",
-        "website": "https://zapier.com/",
-        "llms-full-txt": "https://docs.zapier.com/llms-full.txt",
-        "llms-full-txt-tokens": 259459,
-        "llms-txt": "https://docs.zapier.com/llms.txt",
-        "llms-txt-tokens": 12926
-    },
-    {
-        "product": "CalendarScripts",
-        "website": "https://blog.calendarscripts.info/",
-        "llms-txt": "https://blog.calendarscripts.info/llms.txt",
-        "llms-txt-tokens": 8661,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "The Data Driven Marketer",
-        "website": "https://datadrivenmarketer.me",
-        "llms-txt": "https://datadrivenmarketer.me/llms.txt",
-        "llms-txt-tokens": 304,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Trackingplan",
-        "website": "https://www.trackingplan.com/",
-        "llms-txt": "https://www.trackingplan.com/llms.txt",
-        "llms-txt-tokens": 4241,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "SkyDeck.ai",
-        "website": "https://docs.skydeck.ai/",
-        "llms-full-txt": "https://llm.skydeck.ai/llms-full.txt",
-        "llms-full-txt-tokens": 63550,
-        "llms-txt": "https://llm.skydeck.ai/llms.txt",
-        "llms-txt-tokens": 2970
-    },
-    {
-        "product": "Rememberizer",
-        "website": "https://docs.rememberizer.ai",
-        "llms-full-txt": "https://llm.rememberizer.ai/llms-full.txt",
-        "llms-full-txt-tokens": 39823,
-        "llms-txt": "https://llm.rememberizer.ai/llms.txt",
-        "llms-txt-tokens": 2025
-    },
-    {
-        "product": "Webrecorder",
-        "website": "https://webrecorder.net/",
-        "llms-txt": "https://webrecorder.net/llms.txt",
-        "llms-txt-tokens": 944,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "WXT",
-        "website": "https://wxt.dev",
-        "llms-txt": "https://wxt.dev/knowledge/docs.txt",
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "TheirStack",
-        "website": "https://theirstack.com",
-        "llms-full-txt": "https://theirstack.com/docs/llms-full.txt",
-        "llms-full-txt-tokens": 6215,
-        "llms-txt": "https://theirstack.com/docs/llms.txt",
-        "llms-txt-tokens": 83
-    },
-    {
-        "product": "Lots of CSVs",
-        "website": "https://lotsofcsvs.com",
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": 835,
-        "llms-txt": "https://lotsofcsvs.com/llms.txt",
-        "llms-txt-tokens": 83
-    },
-    {
-        "product": "Emailgic",
-        "website": "https://emailgic.com",
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null,
-        "llms-txt": "https://emailgic.com/llms.txt",
-        "llms-txt-tokens": 90733
-    },
-    {
-        "product": "DeployHQ",
-        "website": "https://www.deployhq.com",
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null,
-        "llms-txt": "https://www.deployhq.com/llms.txt",
-        "llms-txt-tokens": 742
-    },
-    {
-        "product": "Manifestly Checklists",
-        "website": "https://manifest.ly/",
-        "llms-full-txt": "https://manifest.ly/llms-full.txt",
-        "llms-full-txt-tokens": 4731,
-        "llms-txt": "https://manifest.ly/llms.txt",
-        "llms-txt-tokens": 598
-    },
-    {
-
-        "product": "Medusa",
-        "website": "https://docs.medusajs.com",
-        "llms-full-txt": "https://docs.medusajs.com/llms-full.txt",
-        "llms-full-txt-tokens": null,
-        "llms-txt": "https://docs.medusajs.com/llms.txt",
-        "llms-txt-tokens": null
-    },
-    {
-        "product": "Expo",
-        "website": "https://expo.dev/",
-        "llms-full-txt": "https://docs.expo.dev/llms-full.txt",
-        "llms-full-txt-tokens": 325871,
-        "llms-txt": "https://docs.expo.dev/llms.txt",
-        "llms-txt-tokens": 15310
-    },
-    {
-        "product": "liblab",
-        "website": "https://liblab.com/",
-        "llms-txt": "https://www.liblab.com/llms.txt",
-        "llms-txt-tokens": null,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "ZenML",
-        "website": "https://www.zenml.io/",
-        "llms-full-txt": "https://www.zenml.io/llms-full.txt",
-        "llms-txt": "https://www.zenml.io/llms.txt"
-    },
-    {
-        "product": "Agent Domain",
-        "website": "https://www.agentdomain.xyz/",
-        "llms-full-txt": "https://www.agentdomain.xyz/llms-full.txt",
-        "llms-full-txt-tokens": 763,
-        "llms-txt": "https://www.agentdomain.xyz/llms.txt",
-        "llms-txt-tokens": 329
-    },
-    {
-        "product": "Pics.io",
-        "website": "https://pics.io/",
-        "llms-txt": "https://blog.pics.io/static/llms.txt",
-        "llms-txt-tokens": "",
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Exemplar's AI Engineer's Handbook",
-        "website": "https://handbook.exemplar.dev",
-        "llms-full-txt": "https://handbook.exemplar.dev/llms-full.txt",
-        "llms-txt": "https://handbook.exemplar.dev/llms.txt"
-    }
+  {
+    "product": "Azumuta",
+    "website": "https://www.azumuta.com/",
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null,
+    "llms-txt": "https://www.azumuta.com/llms.txt",
+    "llms-txt-tokens": ""
+  },
+  {
+    "product": "WordLift",
+    "website": "https://wordlift.io/",
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null,
+    "llms-txt": "https://wordlift.io/llms.txt",
+    "llms-txt-tokens": 649
+  },
+  {
+    "product": "Activepieces",
+    "website": "https://activepieces.com/",
+    "llms-full-txt": "https://www.activepieces.com/docs/llms-full.txt",
+    "llms-full-txt-tokens": 43666,
+    "llms-txt": "https://www.activepieces.com/docs/llms.txt",
+    "llms-txt-tokens": 3649
+  },
+  {
+    "product": "AI Squared",
+    "website": "https://squared.ai/",
+    "llms-full-txt": "https://docs.squared.ai/llms-full.txt",
+    "llms-full-txt-tokens": 68849,
+    "llms-txt": "https://docs.squared.ai/llms.txt",
+    "llms-txt-tokens": 3594
+  },
+  {
+    "product": "Answer.AI",
+    "website": "https://answer.ai/",
+    "llms-txt": "https://www.answer.ai/llms.txt",
+    "llms-txt-tokens": 180,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Anthropic",
+    "website": "https://anthropic.com/",
+    "llms-full-txt": "https://docs.anthropic.com/llms-full.txt",
+    "llms-full-txt-tokens": 313919,
+    "llms-txt": "https://docs.anthropic.com/llms.txt",
+    "llms-txt-tokens": 159282
+  },
+  {
+    "product": "Apify",
+    "website": "https://apify.com/",
+    "llms-txt": "https://docs.apify.com/llms.txt",
+    "llms-txt-tokens": 2503,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Aporia",
+    "website": "https://aporia.com/",
+    "llms-txt": "https://gr-docs.aporia.com/llms.txt",
+    "llms-txt-tokens": 2653,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Aptible",
+    "website": "https://aptible.com/",
+    "llms-full-txt": "https://www.aptible.com/docs/llms-full.txt",
+    "llms-full-txt-tokens": 241445,
+    "llms-txt": "https://www.aptible.com/docs/llms.txt",
+    "llms-txt-tokens": 10719
+  },
+  {
+    "product": "Argil AI",
+    "website": "https://argil.ai/",
+    "llms-txt": "https://docs.argil.ai/llms.txt",
+    "llms-txt-tokens": 661,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Axiom",
+    "website": "https://axiom.co/",
+    "llms-full-txt": "https://axiom.co/docs/llms-full.txt",
+    "llms-full-txt-tokens": 327637,
+    "llms-txt": "https://axiom.co/docs/llms.txt",
+    "llms-txt-tokens": 7997
+  },
+  {
+    "product": "Axle",
+    "website": "https://axle.insure/",
+    "llms-txt": "https://docs.axle.insure/llms.txt",
+    "llms-txt-tokens": 1424,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "BaseHub",
+    "website": "https://basehub.com/",
+    "llms-full-txt": "https://docs.basehub.com/llms-full.txt",
+    "llms-full-txt-tokens": 22961,
+    "llms-txt": "https://docs.basehub.com/llms.txt",
+    "llms-txt-tokens": 1654
+  },
+  {
+    "product": "Clever Cloud",
+    "website": "https://clever-cloud.com/",
+    "llms-txt": "https://www.clever-cloud.com/developers/llms.txt",
+    "llms-txt-tokens": 4273,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Cobo",
+    "website": "https://cobo.com/",
+    "llms-full-txt": "https://www.cobo.com/developers/llms-full.txt",
+    "llms-full-txt-tokens": 178626,
+    "llms-txt": "https://www.cobo.com/developers/llms.txt",
+    "llms-txt-tokens": 21788
+  },
+  {
+    "product": "Cog",
+    "website": "https://cog.run/",
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null,
+    "llms-txt": "https://cog.run/llms.txt",
+    "llms-txt-tokens": null
+  },
+  {
+    "product": "CrewAI",
+    "website": "https://crewai.com/",
+    "llms-full-txt": "https://docs.crewai.com/llms-full.txt",
+    "llms-full-txt-tokens": 64146,
+    "llms-txt": "https://docs.crewai.com/llms.txt",
+    "llms-txt-tokens": 2589
+  },
+  {
+    "product": "Cursor",
+    "website": "https://cursor.com/",
+    "llms-full-txt": "https://docs.cursor.com/llms-full.txt",
+    "llms-full-txt-tokens": 9602,
+    "llms-txt": "https://docs.cursor.com/llms.txt",
+    "llms-txt-tokens": 589
+  },
+  {
+    "product": "Datafold",
+    "website": "https://datafold.com/",
+    "llms-full-txt": "https://docs.datafold.com/llms-full.txt",
+    "llms-full-txt-tokens": 90348,
+    "llms-txt": "https://docs.datafold.com/llms.txt",
+    "llms-txt-tokens": 4998
+  },
+  {
+    "product": "Dopp Finance",
+    "website": "https://dopp.finance/",
+    "llms-txt": "https://docs.dopp.finance/llms.txt",
+    "llms-txt-tokens": 2952,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "dotenvx",
+    "website": "https://dotenvx.com/",
+    "llms-full-txt": "https://dotenvx.com/llms-full.txt",
+    "llms-full-txt-tokens": 14704,
+    "llms-txt": "https://dotenvx.com/llms.txt",
+    "llms-txt-tokens": 3143
+  },
+  {
+    "product": "Dub",
+    "website": "https://dub.co/",
+    "llms-full-txt": "https://dub.co/docs/llms-full.txt",
+    "llms-full-txt-tokens": 100756,
+    "llms-txt": "https://dub.co/docs/llms.txt",
+    "llms-txt-tokens": 2831
+  },
+  {
+    "product": "DuckDB",
+    "website": "https://duckdb.org/",
+    "llms-full-txt": "https://duckdb.org/duckdb-docs.md",
+    "llms-full-txt-tokens": 738849,
+    "llms-txt": "",
+    "llms-txt-tokens": null
+  },
+  {
+    "product": "Dynamic",
+    "website": "https://dynamic.xyz/",
+    "llms-full-txt": "https://docs.dynamic.xyz/llms-full.txt",
+    "llms-full-txt-tokens": 204260,
+    "llms-txt": "https://docs.dynamic.xyz/llms.txt",
+    "llms-txt-tokens": 16382
+  },
+  {
+    "product": "ElevenLabs",
+    "website": "https://elevenlabs.io/",
+    "llms-full-txt": "https://elevenlabs.io/docs/llms-full.txt",
+    "llms-full-txt-tokens": 123215,
+    "llms-txt": "https://elevenlabs.io/docs/llms.txt",
+    "llms-txt-tokens": 5528
+  },
+  {
+    "product": "EmbedChain",
+    "website": "https://embedchain.ai/",
+    "llms-full-txt": "https://docs.embedchain.ai/llms-full.txt",
+    "llms-full-txt-tokens": 62353,
+    "llms-txt": "https://docs.embedchain.ai/llms.txt",
+    "llms-txt-tokens": 2244
+  },
+  {
+    "product": "Envoyer",
+    "website": "https://envoyer.io/",
+    "llms-full-txt": "https://docs.envoyer.io/llms-full.txt",
+    "llms-full-txt-tokens": 5608,
+    "llms-txt": "https://docs.envoyer.io/llms.txt",
+    "llms-txt-tokens": 271
+  },
+  {
+    "product": "Evan Boehs",
+    "website": "https://boehs.org/",
+    "llms-txt": "https://boehs.org/llms.txt",
+    "llms-txt-tokens": 133,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Fabric",
+    "website": "https://fabric.inc/",
+    "llms-full-txt": "https://developer.fabric.inc/llms-full.txt",
+    "llms-full-txt-tokens": 309219,
+    "llms-txt": "https://developer.fabric.inc/llms.txt",
+    "llms-txt-tokens": 77790
+  },
+  {
+    "product": "FastHTML",
+    "website": "https://fastht.ml/",
+    "llms-txt": "https://docs.fastht.ml/llms.txt",
+    "llms-txt-tokens": 754,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Finch",
+    "website": "https://tryfinch.com/",
+    "llms-txt": "https://developer.tryfinch.com/llms.txt",
+    "llms-txt-tokens": 4510,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Fireworks AI",
+    "website": "https://fireworks.ai/",
+    "llms-full-txt": "https://docs.fireworks.ai/llms-full.txt",
+    "llms-full-txt-tokens": 70623,
+    "llms-txt": "https://docs.fireworks.ai/llms.txt",
+    "llms-txt-tokens": 3056
+  },
+  {
+    "product": "Flatfile",
+    "website": "https://flatfile.com/",
+    "llms-full-txt": "https://flatfile.com/docs/llms-full.txt",
+    "llms-full-txt-tokens": 0,
+    "llms-txt": "https://flatfile.com/docs/llms.txt",
+    "llms-txt-tokens": 4984
+  },
+  {
+    "product": "FlowX",
+    "website": "https://flowx.ai/",
+    "llms-full-txt": "https://docs.flowx.ai/llms-full.txt",
+    "llms-full-txt-tokens": 309959,
+    "llms-txt": "https://docs.flowx.ai/llms.txt",
+    "llms-txt-tokens": 49914
+  },
+  {
+    "product": "FractalPay",
+    "website": "https://fractalpay.com/",
+    "llms-txt": "https://docs.fractalpay.com/llms.txt",
+    "llms-txt-tokens": 567,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Frigade",
+    "website": "https://frigade.com/",
+    "llms-txt": "https://docs.frigade.com/llms.txt",
+    "llms-txt-tokens": 3498,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Galileo",
+    "website": "https://rungalileo.io/",
+    "llms-full-txt": "https://docs.rungalileo.io/llms-full.txt",
+    "llms-full-txt-tokens": 144286,
+    "llms-txt": "https://docs.rungalileo.io/llms.txt",
+    "llms-txt-tokens": 8620
+  },
+  {
+    "product": "Goody",
+    "website": "https://ongoody.com/",
+    "llms-txt": "https://developer.ongoody.com/llms.txt",
+    "llms-txt-tokens": 2020,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Helicone",
+    "website": "https://helicone.ai/",
+    "llms-txt": "https://www.helicone.ai/llms.txt",
+    "llms-txt-tokens": 545,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Hugging Face Accelerate",
+    "website": "https://huggingface.co/",
+    "llms-txt": "https://huggingface-projects-docs-llms-txt.hf.space/accelerate/llms.txt",
+    "llms-txt-tokens": 81948,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Hugging Face Diffusers",
+    "website": "https://huggingface.co/",
+    "llms-txt": "https://huggingface-projects-docs-llms-txt.hf.space/diffusers/llms.txt",
+    "llms-txt-tokens": 381810,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Hugging Face Hub",
+    "website": "https://huggingface.co/",
+    "llms-txt": "https://huggingface-projects-docs-llms-txt.hf.space/hub/llms.txt",
+    "llms-txt-tokens": 210058,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Hugging Face Hub Python Library",
+    "website": "https://huggingface.co/",
+    "llms-txt": "https://huggingface-projects-docs-llms-txt.hf.space/huggingface_hub/llms.txt",
+    "llms-txt-tokens": 71931,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Hugging Face Transformers",
+    "website": "https://huggingface.co/",
+    "llms-txt": "https://huggingface-projects-docs-llms-txt.hf.space/transformers/llms.txt",
+    "llms-txt-tokens": 808972,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Hyperline",
+    "website": "https://hyperline.co/",
+    "llms-full-txt": "https://docs.hyperline.co/llms-full.txt",
+    "llms-full-txt-tokens": 327867,
+    "llms-txt": "https://docs.hyperline.co/llms.txt",
+    "llms-txt-tokens": 6364
+  },
+  {
+    "product": "Hypermode",
+    "website": "https://hypermode.com/",
+    "llms-txt": "https://docs.hypermode.com/llms.txt",
+    "llms-txt-tokens": 833,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Infisical",
+    "website": "https://infisical.com/",
+    "llms-full-txt": "https://infisical.com/docs/llms-full.txt",
+    "llms-full-txt-tokens": 282102,
+    "llms-txt": "https://infisical.com/docs/llms.txt",
+    "llms-txt-tokens": 12731
+  },
+  {
+    "product": "Inkeep",
+    "website": "https://inkeep.com/",
+    "llms-full-txt": "https://docs.inkeep.com/llms-full.txt",
+    "llms-full-txt-tokens": 77941,
+    "llms-txt": "https://docs.inkeep.com/llms.txt",
+    "llms-txt-tokens": 3229
+  },
+  {
+    "product": "Intuned",
+    "website": "https://intunedhq.com/",
+    "llms-txt": "https://docs.intunedhq.com/llms.txt",
+    "llms-txt-tokens": 5401,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "IonQ",
+    "website": "https://ionq.com/",
+    "llms-full-txt": "https://docs.ionq.com/llms-full.txt",
+    "llms-full-txt-tokens": 45440,
+    "llms-txt": "https://docs.ionq.com/llms.txt",
+    "llms-txt-tokens": 1921
+  },
+  {
+    "product": "Jazz",
+    "website": "https://jazz.tools/",
+    "llms-full-txt": "https://jazz.tools/llms-full.txt",
+    "llms-full-txt-tokens": 32297,
+    "llms-txt": "https://jazz.tools/llms.txt",
+    "llms-txt-tokens": 2856
+  },
+  {
+    "product": "Lago",
+    "website": "https://getlago.com/",
+    "llms-full-txt": "https://getlago.com/docs/llms-full.txt",
+    "llms-full-txt-tokens": 284187,
+    "llms-txt": "https://getlago.com/docs/llms.txt",
+    "llms-txt-tokens": 8663
+  },
+  {
+    "product": "Liam ERD",
+    "website": "https://liambx.com/",
+    "llms-txt": "",
+    "llms-txt-tokens": null,
+    "llms-full-txt": "https://liambx.com/docs/llms-full.txt",
+    "llms-full-txt-tokens": 8831
+  },
+  {
+    "product": "Langfuse",
+    "website": "https://langfuse.com/",
+    "llms-txt": "https://langfuse.com/llms.txt",
+    "llms-txt-tokens": 8544,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Liveblocks",
+    "website": "https://liveblocks.io/",
+    "llms-full-txt": "https://liveblocks.io/llms-full.txt",
+    "llms-full-txt-tokens": null,
+    "llms-txt": "https://liveblocks.io/llms.txt",
+    "llms-txt-tokens": null
+  },
+  {
+    "product": "llms.txt",
+    "website": "https://llmstxt.org/",
+    "llms-txt": "https://llmstxt.org/llms.txt",
+    "llms-txt-tokens": 158,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Loops",
+    "website": "https://loops.so/",
+    "llms-full-txt": "https://loops.so/docs/llms-full.txt",
+    "llms-full-txt-tokens": 104414,
+    "llms-txt": "https://loops.so/docs/llms.txt",
+    "llms-txt-tokens": 2735
+  },
+  {
+    "product": "LuxAlgo",
+    "website": "https://luxalgo.com/",
+    "llms-full-txt": "https://docs.luxalgo.com/llms-full.txt",
+    "llms-full-txt-tokens": 76131,
+    "llms-txt": "https://docs.luxalgo.com/llms.txt",
+    "llms-txt-tokens": 1586
+  },
+  {
+    "product": "Mangopay",
+    "website": "https://mangopay.com/",
+    "llms-full-txt": "https://docs.mangopay.com/llms-full.txt",
+    "llms-full-txt-tokens": 1602828,
+    "llms-txt": "https://docs.mangopay.com/llms.txt",
+    "llms-txt-tokens": 9955
+  },
+  {
+    "product": "Meilisearch",
+    "website": "https://www.meilisearch.com/",
+    "llms-full-txt": "https://www.meilisearch.com/llms-full.txt",
+    "llms-full-txt-tokens": "",
+    "llms-txt": "https://www.meilisearch.com/llms.txt",
+    "llms-txt-tokens": ""
+  },
+  {
+    "product": "MeshConnect",
+    "website": "https://meshconnect.com/",
+    "llms-full-txt": "https://docs.meshconnect.com/llms-full.txt",
+    "llms-full-txt-tokens": 28652,
+    "llms-txt": "https://docs.meshconnect.com/llms.txt",
+    "llms-txt-tokens": 2545
+  },
+  {
+    "product": "Method Financial",
+    "website": "https://methodfi.com/",
+    "llms-full-txt": "https://docs.methodfi.com/llms-full.txt",
+    "llms-full-txt-tokens": 200761,
+    "llms-txt": "https://docs.methodfi.com/llms.txt",
+    "llms-txt-tokens": 2979
+  },
+  {
+    "product": "Micro1",
+    "website": "https://micro1.ai/",
+    "llms-txt": "https://docs.micro1.ai/llms.txt",
+    "llms-txt-tokens": 629,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Mintlify",
+    "website": "https://mintlify.com/",
+    "llms-full-txt": "https://mintlify.com/docs/llms-full.txt",
+    "llms-full-txt-tokens": 75219,
+    "llms-txt": "https://mintlify.com/docs/llms.txt",
+    "llms-txt-tokens": 2098
+  },
+  {
+    "product": "Mystery-o-matic",
+    "website": "https://mystery-o-matic.com/",
+    "llms-txt": "https://mystery-o-matic.com/llms.txt",
+    "llms-txt-tokens": 1534,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "OpenPhone",
+    "website": "https://openphone.com/",
+    "llms-txt": "https://www.openphone.com/docs/llms.txt",
+    "llms-txt-tokens": 1342,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "OpenPipe",
+    "website": "https://openpipe.ai/",
+    "llms-full-txt": "https://docs.openpipe.ai/llms-full.txt",
+    "llms-full-txt-tokens": 23515,
+    "llms-txt": "https://docs.openpipe.ai/llms.txt",
+    "llms-txt-tokens": 1363
+  },
+  {
+    "product": "Oxla",
+    "website": "https://oxla.com/",
+    "llms-full-txt": "https://docs.oxla.com/llms-full.txt",
+    "llms-full-txt-tokens": 178680,
+    "llms-txt": "https://docs.oxla.com/llms.txt",
+    "llms-txt-tokens": 5989
+  },
+  {
+    "product": "Perplexity",
+    "website": "https://perplexity.ai/",
+    "llms-full-txt": "https://docs.perplexity.ai/llms-full.txt",
+    "llms-full-txt-tokens": 5137,
+    "llms-txt": "https://docs.perplexity.ai/llms.txt",
+    "llms-txt-tokens": 269
+  },
+  {
+    "product": "Pinecone",
+    "website": "https://pinecone.io/",
+    "llms-full-txt": "https://docs.pinecone.io/llms-full.txt",
+    "llms-full-txt-tokens": 27768,
+    "llms-txt": "https://docs.pinecone.io/llms.txt",
+    "llms-txt-tokens": 11222
+  },
+  {
+    "product": "Plain",
+    "website": "https://plain.com/",
+    "llms-full-txt": "https://www.plain.com/docs/llms-full.txt",
+    "llms-full-txt-tokens": 48404,
+    "llms-txt": "https://www.plain.com/docs/llms.txt",
+    "llms-txt-tokens": 3013
+  },
+  {
+    "product": "POPSMASH",
+    "website": "https://www.popsmash.com/",
+    "llms-txt": "https://www.popsmash.com/llms.txt",
+    "llms-txt-tokens": 563,
+    "llms-full-txt": "https://www.popsmash.com/llms-full.txt",
+    "llms-full-txt-tokens": 9026
+  },
+  {
+    "product": "PrimeV",
+    "website": "https://primev.xyz/",
+    "llms-full-txt": "https://docs.primev.xyz/llms-full.txt",
+    "llms-full-txt-tokens": 44009,
+    "llms-txt": "https://docs.primev.xyz/llms.txt",
+    "llms-txt-tokens": 6370
+  },
+  {
+    "product": "ProjectDiscovery",
+    "website": "https://projectdiscovery.io/",
+    "llms-full-txt": "https://docs.projectdiscovery.io/llms-full.txt",
+    "llms-full-txt-tokens": 183667,
+    "llms-txt": "https://docs.projectdiscovery.io/llms.txt",
+    "llms-txt-tokens": 7059
+  },
+  {
+    "product": "Quill",
+    "website": "https://quillsql.com/",
+    "llms-txt": "https://docs.quillsql.com/llms.txt",
+    "llms-txt-tokens": 480,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "raincamp",
+    "website": "https://raincamp.ai/",
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null,
+    "llms-txt": "https://raincamp.ai/llms.txt",
+    "llms-txt-tokens": 4
+  },
+  {
+    "product": "RainbowKit",
+    "website": "https://rainbowkit.com/",
+    "llms-full-txt": "https://rainbowkit.com/llms-full.txt",
+    "llms-full-txt-tokens": 261091,
+    "llms-txt": "https://rainbowkit.com/llms.txt",
+    "llms-txt-tokens": 660
+  },
+  {
+    "product": "Remult",
+    "website": "https://remult.dev/",
+    "llms-full-txt": "https://remult.dev/llms-full.txt",
+    "llms-full-txt-tokens": 180035,
+    "llms-txt": "https://remult.dev/llms.txt",
+    "llms-txt-tokens": 149
+  },
+  {
+    "product": "Resend",
+    "website": "https://resend.com/",
+    "llms-full-txt": "https://resend.com/docs/llms-full.txt",
+    "llms-full-txt-tokens": 121975,
+    "llms-txt": "https://resend.com/docs/llms.txt",
+    "llms-txt-tokens": 3755
+  },
+  {
+    "product": "Roc",
+    "website": "https://roc-lang.org/",
+    "llms-txt": "https://www.roc-lang.org/llms.txt",
+    "llms-txt-tokens": 32322,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Salesbricks",
+    "website": "https://salesbricks.com/",
+    "llms-full-txt": "https://docs.salesbricks.com/llms-full.txt",
+    "llms-full-txt-tokens": 44845,
+    "llms-txt": "https://docs.salesbricks.com/llms.txt",
+    "llms-txt-tokens": 1473
+  },
+  {
+    "product": "Sardine",
+    "website": "https://sardine.ai/",
+    "llms-full-txt": "https://docs.sardine.ai/llms-full.txt",
+    "llms-full-txt-tokens": 7795,
+    "llms-txt": "https://docs.sardine.ai/llms.txt",
+    "llms-txt-tokens": 523
+  },
+  {
+    "product": "Sherlock Domains",
+    "website": "https://sherlockdomains.com/",
+    "llms-full-txt": "https://www.sherlockdomains.com/llms-full.txt",
+    "llms-full-txt-tokens": 3803,
+    "llms-txt": "https://www.sherlockdomains.com/llms.txt",
+    "llms-txt-tokens": 200
+  },
+  {
+    "product": "Smartcar",
+    "website": "https://smartcar.com/",
+    "llms-full-txt": "https://smartcar.com/docs/llms-full.txt",
+    "llms-full-txt-tokens": 108178,
+    "llms-txt": "https://smartcar.com/docs/llms.txt",
+    "llms-txt-tokens": 5687
+  },
+  {
+    "product": "Solid",
+    "website": "https://solidfi.com/",
+    "llms-txt": "https://docs.solidfi.com/llms.txt",
+    "llms-txt-tokens": 7206,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Speakeasy",
+    "website": "https://speakeasy.com/",
+    "llms-txt": "https://www.speakeasy.com/llms.txt",
+    "llms-txt-tokens": 634,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Stedi",
+    "website": "https://stedi.com/",
+    "llms-full-txt": "https://www.stedi.com/docs/llms-full.txt",
+    "llms-full-txt-tokens": 203127,
+    "llms-txt": "https://www.stedi.com/docs/llms.txt",
+    "llms-txt-tokens": 4874
+  },
+  {
+    "product": "Svelte",
+    "website": "https://svelte.dev/",
+    "llms-full-txt": "https://svelte.dev/llms-full.txt",
+    "llms-full-txt-tokens": 216219,
+    "llms-txt": "https://svelte.dev/llms.txt",
+    "llms-txt-tokens": 280
+  },
+  {
+    "product": "Tavus",
+    "website": "https://www.tavus.io/",
+    "llms-full-txt": "https://docs.tavus.io/llms-full.txt",
+    "llms-full-txt-tokens": 32413,
+    "llms-txt": "https://docs.tavus.io/llms.txt",
+    "llms-txt-tokens": 3744
+  },
+  {
+    "product": "Tinybird",
+    "website": "https://tinybird.co/",
+    "llms-full-txt": "https://www.tinybird.co/docs/llms-full.txt",
+    "llms-full-txt-tokens": 341519,
+    "llms-txt": "https://www.tinybird.co/docs/llms.txt",
+    "llms-txt-tokens": 3109
+  },
+  {
+    "product": "Tiptap",
+    "website": "https://tiptap.dev/",
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null,
+    "llms-txt": "https://tiptap.dev/llms.txt",
+    "llms-txt-tokens": 12214
+  },
+  {
+    "product": "Trail of Bits",
+    "website": "https://www.trailofbits.com",
+    "llms-full-txt": "https://www.trailofbits.com/llms-full.txt",
+    "llms-full-txt-tokens": null,
+    "llms-txt": "https://www.trailofbits.com/llms.txt",
+    "llms-txt-tokens": null
+  },
+  {
+    "product": "Trigger.dev",
+    "website": "https://trigger.dev/",
+    "llms-full-txt": "https://trigger.dev/docs/llms-full.txt",
+    "llms-full-txt-tokens": 151419,
+    "llms-txt": "https://trigger.dev/docs/llms.txt",
+    "llms-txt-tokens": 4326
+  },
+  {
+    "product": "Turso",
+    "website": "https://turso.tech/",
+    "llms-full-txt": "https://docs.turso.tech/llms-full.txt",
+    "llms-full-txt-tokens": 75683,
+    "llms-txt": "https://docs.turso.tech/llms.txt",
+    "llms-txt-tokens": 4687
+  },
+  {
+    "product": "UnifyGTM",
+    "website": "https://unifygtm.com/",
+    "llms-txt": "https://docs.unifygtm.com/llms.txt",
+    "llms-txt-tokens": 1864,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Unkey",
+    "website": "https://unkey.com/",
+    "llms-txt": "https://www.unkey.com/docs/llms.txt",
+    "llms-txt-tokens": 3483,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Unstructured",
+    "website": "https://unstructured.io/",
+    "llms-full-txt": "https://docs.unstructured.io/llms-full.txt",
+    "llms-full-txt-tokens": 443330,
+    "llms-txt": "https://docs.unstructured.io/llms.txt",
+    "llms-txt-tokens": 6824
+  },
+  {
+    "product": "Upstash",
+    "website": "https://upstash.com/",
+    "llms-full-txt": "https://upstash.com/docs/llms-full.txt",
+    "llms-full-txt-tokens": 503729,
+    "llms-txt": "https://upstash.com/docs/llms.txt",
+    "llms-txt-tokens": 24181
+  },
+  {
+    "product": "Upsun",
+    "website": "https://docs.upsun.com/",
+    "llms-full-txt": "https://docs.upsun.com/llms-full.txt",
+    "llms-full-txt-tokens": 528795,
+    "llms-txt": "https://docs.upsun.com/llms.txt",
+    "llms-txt-tokens": 24430
+  },
+  {
+    "product": "Velt",
+    "website": "https://velt.dev/",
+    "llms-full-txt": "https://docs.velt.dev/llms-full.txt",
+    "llms-full-txt-tokens": 313810,
+    "llms-txt": "https://docs.velt.dev/llms.txt",
+    "llms-txt-tokens": 11020
+  },
+  {
+    "product": "Vital",
+    "website": "https://tryvital.io/",
+    "llms-full-txt": "https://docs.tryvital.io/llms-full.txt",
+    "llms-full-txt-tokens": 0,
+    "llms-txt": "https://docs.tryvital.io/llms.txt",
+    "llms-txt-tokens": 9902
+  },
+  {
+    "product": "Workflow",
+    "website": "https://workflow.design/",
+    "llms-txt": "https://docs.workflow.design/llms.txt",
+    "llms-txt-tokens": 591,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Zapier",
+    "website": "https://zapier.com/",
+    "llms-full-txt": "https://docs.zapier.com/llms-full.txt",
+    "llms-full-txt-tokens": 259459,
+    "llms-txt": "https://docs.zapier.com/llms.txt",
+    "llms-txt-tokens": 12926
+  },
+  {
+    "product": "CalendarScripts",
+    "website": "https://blog.calendarscripts.info/",
+    "llms-txt": "https://blog.calendarscripts.info/llms.txt",
+    "llms-txt-tokens": 8661,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "The Data Driven Marketer",
+    "website": "https://datadrivenmarketer.me",
+    "llms-txt": "https://datadrivenmarketer.me/llms.txt",
+    "llms-txt-tokens": 304,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Trackingplan",
+    "website": "https://www.trackingplan.com/",
+    "llms-txt": "https://www.trackingplan.com/llms.txt",
+    "llms-txt-tokens": 4241,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "SkyDeck.ai",
+    "website": "https://docs.skydeck.ai/",
+    "llms-full-txt": "https://llm.skydeck.ai/llms-full.txt",
+    "llms-full-txt-tokens": 63550,
+    "llms-txt": "https://llm.skydeck.ai/llms.txt",
+    "llms-txt-tokens": 2970
+  },
+  {
+    "product": "Rememberizer",
+    "website": "https://docs.rememberizer.ai",
+    "llms-full-txt": "https://llm.rememberizer.ai/llms-full.txt",
+    "llms-full-txt-tokens": 39823,
+    "llms-txt": "https://llm.rememberizer.ai/llms.txt",
+    "llms-txt-tokens": 2025
+  },
+  {
+    "product": "Webrecorder",
+    "website": "https://webrecorder.net/",
+    "llms-txt": "https://webrecorder.net/llms.txt",
+    "llms-txt-tokens": 944,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "WXT",
+    "website": "https://wxt.dev",
+    "llms-txt": "https://wxt.dev/knowledge/docs.txt",
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "TheirStack",
+    "website": "https://theirstack.com",
+    "llms-full-txt": "https://theirstack.com/docs/llms-full.txt",
+    "llms-full-txt-tokens": 6215,
+    "llms-txt": "https://theirstack.com/docs/llms.txt",
+    "llms-txt-tokens": 83
+  },
+  {
+    "product": "Lots of CSVs",
+    "website": "https://lotsofcsvs.com",
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": 835,
+    "llms-txt": "https://lotsofcsvs.com/llms.txt",
+    "llms-txt-tokens": 83
+  },
+  {
+    "product": "Emailgic",
+    "website": "https://emailgic.com",
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null,
+    "llms-txt": "https://emailgic.com/llms.txt",
+    "llms-txt-tokens": 90733
+  },
+  {
+    "product": "DeployHQ",
+    "website": "https://www.deployhq.com",
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null,
+    "llms-txt": "https://www.deployhq.com/llms.txt",
+    "llms-txt-tokens": 742
+  },
+  {
+    "product": "Manifestly Checklists",
+    "website": "https://manifest.ly/",
+    "llms-full-txt": "https://manifest.ly/llms-full.txt",
+    "llms-full-txt-tokens": 4731,
+    "llms-txt": "https://manifest.ly/llms.txt",
+    "llms-txt-tokens": 598
+  },
+  {
+    "product": "Medusa",
+    "website": "https://docs.medusajs.com",
+    "llms-full-txt": "https://docs.medusajs.com/llms-full.txt",
+    "llms-full-txt-tokens": null,
+    "llms-txt": "https://docs.medusajs.com/llms.txt",
+    "llms-txt-tokens": null
+  },
+  {
+    "product": "Expo",
+    "website": "https://expo.dev/",
+    "llms-full-txt": "https://docs.expo.dev/llms-full.txt",
+    "llms-full-txt-tokens": 325871,
+    "llms-txt": "https://docs.expo.dev/llms.txt",
+    "llms-txt-tokens": 15310
+  },
+  {
+    "product": "liblab",
+    "website": "https://liblab.com/",
+    "llms-txt": "https://www.liblab.com/llms.txt",
+    "llms-txt-tokens": null,
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "ZenML",
+    "website": "https://www.zenml.io/",
+    "llms-full-txt": "https://www.zenml.io/llms-full.txt",
+    "llms-txt": "https://www.zenml.io/llms.txt"
+  },
+  {
+    "product": "Agent Domain",
+    "website": "https://www.agentdomain.xyz/",
+    "llms-full-txt": "https://www.agentdomain.xyz/llms-full.txt",
+    "llms-full-txt-tokens": 763,
+    "llms-txt": "https://www.agentdomain.xyz/llms.txt",
+    "llms-txt-tokens": 329
+  },
+  {
+    "product": "Pics.io",
+    "website": "https://pics.io/",
+    "llms-txt": "https://blog.pics.io/static/llms.txt",
+    "llms-txt-tokens": "",
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null
+  },
+  {
+    "product": "Exemplar's AI Engineer's Handbook",
+    "website": "https://handbook.exemplar.dev",
+    "llms-full-txt": "https://handbook.exemplar.dev/llms-full.txt",
+    "llms-txt": "https://handbook.exemplar.dev/llms.txt"
+  },
+  {
+    "product": "Vishrut Jha",
+    "website": "https://vishrutjha.com/",
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null,
+    "llms-txt": "https://vishrutjha.com/llms.txt",
+    "llms-txt-tokens": 694
+  }
 ]
