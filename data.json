@@ -160,6 +160,14 @@
         "llms-txt-tokens": 589
     },
     {
+        "product": "daisyUI",
+        "website": "https://daisyui.com/",
+        "llms-txt": "https://daisyui.com/llms.txt",
+        "llms-txt-tokens": 12398,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "Datafold",
         "website": "https://datafold.com/",
         "llms-full-txt": "https://docs.datafold.com/llms-full.txt",
