@@ -1056,5 +1056,13 @@
         "llms-txt-tokens": null,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
+    },
+    {
+        "product": "afoo.me",
+        "website": "https://afoo.me",
+        "llms-txt": "https://afoo.me/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     }
 ]
