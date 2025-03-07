@@ -1059,5 +1059,11 @@
         "llms-txt-tokens": null,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
+    },
+    {
+        "product": "Prisma",
+        "website": "https://prisma.io",
+        "llms-full-txt": "https://prisma.io/llms-full.txt",
+        "llms-txt": "https://prisma.io/llms.txt"
     }
 ]
