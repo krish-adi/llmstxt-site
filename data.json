@@ -1059,5 +1059,13 @@
         "llms-txt-tokens": null,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
+    },
+   {
+        "product": "Sourcegraph",
+        "website": "https://sourcegraph.com/docs",
+        "llms-txt": "https://sourcegraph.com/docs/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     }
 ]
