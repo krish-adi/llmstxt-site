@@ -1059,5 +1059,13 @@
         "llms-txt-tokens": null,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
+    },
+    {
+        "product": "Transloadit",
+        "website": "https://transloadit.com/",
+        "llms-txt": "https://transloadit.com/llms.txt",
+        "llms-txt-tokens": 5000,
+        "llms-full-txt": "https://transloadit.com/llms-full.txt",
+        "llms-full-txt-tokens": 82000
     }
 ]
