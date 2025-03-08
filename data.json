@@ -995,6 +995,14 @@
         "website": "https://www.zenml.io/",
         "llms-full-txt": "https://www.zenml.io/llms-full.txt",
         "llms-txt": "https://www.zenml.io/llms.txt"
+    },    
+    {
+        "product": "Raycast",
+        "website": "https://www.raycast.com/",
+        "llms-full-txt": "https://raw.githubusercontent.com/raycast/extensions/refs/heads/gh-pages/llms-full.txt",
+        "llms-full-txt-tokens": 140626,
+        "llms-txt": "https://developers.raycast.com/llms.txt",
+        "llms-txt-tokens": 2266,
     },
     {
         "product": "Agent Domain",
