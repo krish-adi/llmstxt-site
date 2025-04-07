@@ -8,6 +8,14 @@
         "llms-txt-tokens": null
    },
    {
+    "product": "Digital Middle Ground",
+    "website": "https://digitalmiddleground.com/",
+    "llms-full-txt": "",
+    "llms-full-txt-tokens": null,
+    "llms-txt": "https://www.digitalmiddleground.com/llms.txt",
+    "llms-txt-tokens": null
+},
+   {
         "product": "Himalayas",
         "website": "https://himalayas.app/",
         "llms-full-txt": "",
