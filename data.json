@@ -360,6 +360,12 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "Formwerk",
+        "website": "https://formwerk.dev/",
+        "llms-txt": "https://formwerk.dev/llms.txt",
+        "llms-full-txt": "https://formwerk.dev/llms-full.txt"
+    },
+    {
         "product": "Galileo",
         "website": "https://rungalileo.io/",
         "llms-full-txt": "https://docs.rungalileo.io/llms-full.txt",
@@ -1147,7 +1153,7 @@
         "website": "https://www.zenml.io/",
         "llms-full-txt": "https://www.zenml.io/llms-full.txt",
         "llms-txt": "https://www.zenml.io/llms.txt"
-    },    
+    },
     {
         "product": "Raycast",
         "website": "https://www.raycast.com/",
