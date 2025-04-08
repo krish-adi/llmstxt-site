@@ -368,6 +368,14 @@
         "llms-txt-tokens": 8620
     },
     {
+        "product": "General Translation",
+        "website": "https://generaltranslation.com/",
+        "llms-full-txt": "https://generaltranslation.com/llms-full.txt",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://generaltranslation.com/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
         "product": "Goody",
         "website": "https://ongoody.com/",
         "llms-txt": "https://developer.ongoody.com/llms.txt",
