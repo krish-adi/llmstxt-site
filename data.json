@@ -1227,6 +1227,14 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "AI Direct Editor",
+        "website": "https://ai-direct-editor.com",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://ai-direct-editor.com/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
         "product": "Goldsky",
         "website": "https://goldsky.com",
         "llms-txt": "https://docs.goldsky.com/llms.txt",
