@@ -628,6 +628,14 @@
         "llms-txt-tokens": 2098
     },
     {
+        "product": "MotherDuck",
+        "website": "https://mintlify.com/",
+        "llms-full-txt": "https://motherduck.com/docs/llms-full.txt",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://motherduck.com/docs/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
         "product": "Muspi Merol",
         "website": "https://muspimerol.site",
         "llms-txt": "https://muspimerol.site/llms.txt",
