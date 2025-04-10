@@ -368,6 +368,12 @@
         "llms-txt-tokens": 8620
     },
     {
+        "product": "Giselle",
+        "website": "https://giselles.ai/",
+        "llms-txt": "https://docs.giselles.ai/llms.txt",
+        "llms-full-txt": "https://docs.giselles.ai/llms-full.txt"
+    },
+    {
         "product": "Goody",
         "website": "https://ongoody.com/",
         "llms-txt": "https://developer.ongoody.com/llms.txt",
