@@ -1367,5 +1367,13 @@
       "llms-txt-tokens": null,
       "llms-full-txt": "https://docs.agentql.com/llms-full.txt",
       "llms-full-txt-tokens": 60771
+    },
+    {
+      "product": "BestFreeAI",
+      "website": "https://bestfreeai.net/",
+      "llms-txt": "https://bestfreeai.net/llms.txt",
+      "llms-txt-tokens": 58670,
+      "llms-full-txt": "",
+      "llms-full-txt-tokens": null
     }
 ]
