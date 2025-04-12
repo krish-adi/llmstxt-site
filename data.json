@@ -384,6 +384,12 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "Hugeicons",
+        "website": "https://hugeicons.com/",
+        "llms-full-txt": "https://cloud.hugeicons.com/llm-full.txt",
+        "llms-txt": "https://cloud.hugeicons.com/llm.txt"
+    },
+    {
         "product": "Hugging Face Accelerate",
         "website": "https://huggingface.co/",
         "llms-txt": "https://huggingface-projects-docs-llms-txt.hf.space/accelerate/llms.txt",
