@@ -1367,5 +1367,13 @@
       "llms-txt-tokens": null,
       "llms-full-txt": "https://docs.agentql.com/llms-full.txt",
       "llms-full-txt-tokens": 60771
+    },
+    {
+      "product": "LogLayer",
+      "website": "https://loglayer.dev/",
+      "llms-txt": "https://loglayer.dev/llms.txt",
+      "llms-txt-tokens": null,
+      "llms-full-txt": "https://loglayer.dev/llms-full.txt",
+      "llms-full-txt-tokens": null
     }
 ]
