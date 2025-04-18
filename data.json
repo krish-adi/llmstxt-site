@@ -1367,5 +1367,21 @@
       "llms-txt-tokens": null,
       "llms-full-txt": "https://docs.agentql.com/llms-full.txt",
       "llms-full-txt-tokens": 60771
+    },
+    {
+      "product": "SVGViewer.app",
+      "website": "https://svgviewer.app/",
+      "llms-txt": "https://svgviewer.app/llms.txt",
+      "llms-txt-tokens": 494,
+      "llms-full-txt": "https://svgviewer.app/llms-full.txt",
+      "llms-full-txt-tokens": 1312
+    },
+    {
+      "product": "QwQ AI",
+      "website": "https://qwq32.com/",
+      "llms-txt": "https://qwq32.com/llms.txt",
+      "llms-txt-tokens": 260,
+      "llms-full-txt": "https://qwq32.com/llms-full.txt",
+      "llms-full-txt-tokens": 260
     }
 ]
