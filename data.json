@@ -304,6 +304,14 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "FeedbackPulse",
+        "website": "https://feedbackpulse.com/",
+        "llms-txt": "https://feedbackpulse.com/llms.txt",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt-tokens": null
+    },
+    {
         "product": "Finch",
         "website": "https://tryfinch.com/",
         "llms-txt": "https://developer.tryfinch.com/llms.txt",
