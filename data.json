@@ -826,6 +826,14 @@
         "llms-txt-tokens": 15977
     },
     {
+        "product": "SGNL.ai",
+        "website": "https://sgnl.ai",
+        "llms-full-text": "https://sgnl.ai/llms-full.txt",
+        "llms-full-txt-tokens": 1739,
+        "llms-txt": "https://sgnl.ai/llms.txt",
+        "llms-txt-tokens": 1069
+    },
+    {
         "product": "Sherlock Domains",
         "website": "https://sherlockdomains.com/",
         "llms-full-txt": "https://www.sherlockdomains.com/llms-full.txt",
