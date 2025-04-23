@@ -184,6 +184,14 @@
         "llms-txt-tokens": null
     },
     {
+        "product": "Corgea",
+        "website": "https://corgea.com/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://docs.corgea.app/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
         "product": "CrewAI",
         "website": "https://crewai.com/",
         "llms-full-txt": "https://docs.crewai.com/llms-full.txt",
