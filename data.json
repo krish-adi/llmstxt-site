@@ -786,6 +786,24 @@
       "llms-txt-tokens": 16581
     },
     {
+        "product": "Rspack",
+        "website": "https://rspack.dev",
+        "llms-full-txt": "https://rspack.dev/llms-full.txt",
+        "llms-txt": "https://rspack.dev/llms.txt"
+    },
+    {
+        "product": "Rsbuild",
+        "website": "https://rsbuild.dev",
+        "llms-full-txt": "https://rsbuild.dev/llms-full.txt",
+        "llms-txt": "https://rsbuild.dev/llms.txt"
+    },
+    {
+        "product": "Rslib",
+        "website": "https://lib.rsbuild.dev",
+        "llms-full-txt": "https://lib.rsbuild.dev/llms-full.txt",
+        "llms-txt": "https://lib.rsbuild.dev/llms.txt"
+    },
+    {
         "product": "Roc",
         "website": "https://roc-lang.org/",
         "llms-txt": "https://www.roc-lang.org/llms.txt",
