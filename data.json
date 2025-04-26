@@ -1,5 +1,13 @@
 [
     {
+        "product": "StockPredictAI",
+        "website": "https://www.aipredictstock.com/",
+        "llms-full-txt": "https://www.aipredictstock.com/llms-full.txt",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://www.aipredictstock.com/llms.txt",
+        "llms-txt-tokens": null
+   },    
+   {
         "product": "Bun",
         "website": "https://bun.sh/",
         "llms-full-txt": "",
