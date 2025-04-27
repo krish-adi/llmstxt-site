@@ -6,16 +6,16 @@
         "llms-full-txt-tokens": null,
         "llms-txt": "https://bun.sh/llms.txt",
         "llms-txt-tokens": null
-   },
-   {
+    },
+    {
         "product": "Himalayas",
         "website": "https://himalayas.app/",
         "llms-full-txt": "",
         "llms-full-txt-tokens": null,
         "llms-txt": "https://himalayas.app/llms.txt",
         "llms-txt-tokens": null
-   },
-   {
+    },
+    {
         "product": "Cosmic",
         "website": "https://www.cosmicjs.com",
         "llms-txt": "https://www.cosmicjs.com/docs/llms.txt",
@@ -23,31 +23,31 @@
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
     },
-   {
-       "product": "Herd",
-       "website": "https://herd.garden/",
-       "llms-txt": "https://herd.garden/llms.txt",
-       "llms-txt-tokens": 7305,
-       "llms-full-txt": "https://herd.garden/llms-full.txt",
-       "llms-full-txt-tokens": 35206
-   },
-   {
+    {
+        "product": "Herd",
+        "website": "https://herd.garden/",
+        "llms-txt": "https://herd.garden/llms.txt",
+        "llms-txt-tokens": 7305,
+        "llms-full-txt": "https://herd.garden/llms-full.txt",
+        "llms-full-txt-tokens": 35206
+    },
+    {
         "product": "PaperGraderPro",
         "website": "https://papergraderpro.com/",
         "llms-full-txt": "",
         "llms-full-txt-tokens": null,
         "llms-txt": "https://papergraderpro.com/llms.txt",
         "llms-txt-tokens": 353
-   },
-   {
+    },
+    {
         "product": "Bika.ai",
         "website": "https://bika.ai/",
         "llms-full-txt": "",
         "llms-full-txt-tokens": null,
         "llms-txt": "https://bika.ai/llms.txt",
         "llms-txt-tokens": 541
-   },
-   {
+    },
+    {
         "product": "Azumuta",
         "website": "https://www.azumuta.com/",
         "llms-full-txt": "",
@@ -652,12 +652,12 @@
         "llms-txt-tokens": 1697
     },
     {
-         "product": "Needle Engine",
-         "website": "https://needle.tools/",
-         "llms-full-txt": "https://cloud.needle.tools/llms-full.txt",
-         "llms-full-txt-tokens": 93201,
-         "llms-txt": "https://cloud.needle.tools/llms.txt",
-         "llms-txt-tokens": 819
+        "product": "Needle Engine",
+        "website": "https://needle.tools/",
+        "llms-full-txt": "https://cloud.needle.tools/llms-full.txt",
+        "llms-full-txt-tokens": 93201,
+        "llms-txt": "https://cloud.needle.tools/llms.txt",
+        "llms-txt-tokens": 819
     },
     {
         "product": "OpenPhone",
@@ -778,12 +778,12 @@
         "llms-txt-tokens": 3755
     },
     {
-      "product": "Reown",
-      "website": "https://docs.reown.com",
-      "llms-full-txt": "https://docs.reown.com/llms-full.txt",
-      "llms-full-txt-tokens": 403077,
-      "llms-txt": "https://docs.reown.com/llms.txt",
-      "llms-txt-tokens": 16581
+        "product": "Reown",
+        "website": "https://docs.reown.com",
+        "llms-full-txt": "https://docs.reown.com/llms-full.txt",
+        "llms-full-txt-tokens": 403077,
+        "llms-txt": "https://docs.reown.com/llms.txt",
+        "llms-txt-tokens": 16581
     },
     {
         "product": "Roc",
@@ -865,7 +865,7 @@
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
     },
-   {
+    {
         "product": "Starwind UI",
         "website": "https://starwind.dev/",
         "llms-txt": "https://starwind.dev/llms.txt",
@@ -1147,7 +1147,7 @@
         "website": "https://www.zenml.io/",
         "llms-full-txt": "https://www.zenml.io/llms-full.txt",
         "llms-txt": "https://www.zenml.io/llms.txt"
-    },    
+    },
     {
         "product": "Raycast",
         "website": "https://www.raycast.com/",
@@ -1247,10 +1247,10 @@
         "llms-full-txt": ""
     },
     {
-       "product": "Wheelhouse DMG",
-       "website": "https://www.wheelhousedmg.com/",
-       "llms-txt": "https://www.wheelhousedmg.com/llms.txt",
-       "llms-txt-tokens": 2101
+        "product": "Wheelhouse DMG",
+        "website": "https://www.wheelhousedmg.com/",
+        "llms-txt": "https://www.wheelhousedmg.com/llms.txt",
+        "llms-txt-tokens": 2101
     },
     {
         "product": "Giles' Blog",
@@ -1293,14 +1293,14 @@
         "llms-full-txt-tokens": 82000
     },
     {
-       "product": "SankeyDiagram.net",
-       "website": "https://sankeydiagram.net/",
-       "llms-full-txt": "",
-       "llms-full-txt-tokens": null,
-       "llms-txt": "https://sankeydiagram.net/llms.txt",
-       "llms-txt-tokens": null
-   },
-   {
+        "product": "SankeyDiagram.net",
+        "website": "https://sankeydiagram.net/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://sankeydiagram.net/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
         "product": "Prisma",
         "website": "https://prisma.io",
         "llms-full-txt": "https://prisma.io/llms-full.txt",
@@ -1361,11 +1361,19 @@
         "llms-full-txt-tokens": null
     },
     {
-      "product": "AgentQL",
-      "website": "https://agentql.com/",
-      "llms-txt": "https://docs.agentql.com/llms.txt",
-      "llms-txt-tokens": null,
-      "llms-full-txt": "https://docs.agentql.com/llms-full.txt",
-      "llms-full-txt-tokens": 60771
+        "product": "AgentQL",
+        "website": "https://agentql.com/",
+        "llms-txt": "https://docs.agentql.com/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "https://docs.agentql.com/llms-full.txt",
+        "llms-full-txt-tokens": 60771
+    },
+    {
+        "product": "devunus",
+        "website": "https://devunus.com/",
+        "llms-txt": "https://docs.devunus.com/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "https://docs.devunus.com/llms-full.txt",
+        "llms-full-txt-tokens": null
     }
 ]
