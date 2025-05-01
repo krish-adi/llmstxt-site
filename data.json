@@ -762,6 +762,12 @@
         "llms-txt-tokens": 660
     },
     {
+        "product": "RandomizePro",
+        "website": "https://randomizepro.com/",
+        "llms-full-txt": "https://randomizepro.com/llms-full.txt",
+        "llms-txt": "https://randomizepro.com/llms.txt"
+    },
+    {
         "product": "Remult",
         "website": "https://remult.dev/",
         "llms-full-txt": "https://remult.dev/llms-full.txt",
