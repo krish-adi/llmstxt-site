@@ -1,5 +1,13 @@
 [
-    {
+   {
+        "product": "Teambridge",
+        "website": "https://teambridge.com/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://teambridge.com/llms.txt",
+        "llms-txt-tokens": null
+   },
+   {
         "product": "Bun",
         "website": "https://bun.sh/",
         "llms-full-txt": "",
