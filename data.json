@@ -1434,4 +1434,10 @@
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
     }
+    {
+        "product": "Yoast",
+        "website": "https://yoast.com/",
+        "llms-full-txt": "",
+        "llms-txt": "https://yoast.com/llms.txt"
+    }
 ]
