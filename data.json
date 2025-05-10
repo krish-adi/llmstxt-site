@@ -1500,5 +1500,13 @@
         "llms-txt-tokens": null,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
-    }
+    },
+  {
+            "product": "Tip.md",
+        "website": "https://www.tip.md/",
+        "llms-full-txt": "https://www.tip.md/llms-full.txt",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://www.tip.md/llms.txt",
+        "llms-txt-tokens": null
+  }
 ]
