@@ -1,8 +1,16 @@
 [
     {
+        "product": "Mailmodo",
+        "website": "https://www.mailmodo.com/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://www.mailmodo.com/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
         "product": "Bun",
         "website": "https://bun.sh/",
-        "llms-full-txt": "",
+        "llms-full-txt": "https://bun.sh/llms-full.txt",
         "llms-full-txt-tokens": null,
         "llms-txt": "https://bun.sh/llms.txt",
         "llms-txt-tokens": null
@@ -160,12 +168,26 @@
         "llms-txt-tokens": null
     },
     {
+        "product": "CipherStash",
+        "website": "https://cipherstash.com",
+        "llms-txt": "https://cipherstash.com/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "Clever Cloud",
         "website": "https://clever-cloud.com/",
         "llms-txt": "https://www.clever-cloud.com/developers/llms.txt",
         "llms-txt-tokens": 4273,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
+    },
+    {
+        "product": "Cloudflare",
+        "website": "https://developers.cloudflare.com",
+        "llms-txt": "https://developers.cloudflare.com/llms.txt"
+        "llms-full-txt": ""
     },
     {
         "product": "Cobo",
@@ -181,6 +203,14 @@
         "llms-full-txt": "",
         "llms-full-txt-tokens": null,
         "llms-txt": "https://cog.run/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
+        "product": "Corgea",
+        "website": "https://corgea.com/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://docs.corgea.app/llms.txt",
         "llms-txt-tokens": null
     },
     {
@@ -304,6 +334,14 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "FeedbackPulse",
+        "website": "https://feedbackpulse.com/",
+        "llms-txt": "https://feedbackpulse.com/llms.txt",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt-tokens": null
+    },
+    {
         "product": "Finch",
         "website": "https://tryfinch.com/",
         "llms-txt": "https://developer.tryfinch.com/llms.txt",
@@ -326,6 +364,14 @@
         "llms-full-txt-tokens": 70623,
         "llms-txt": "https://docs.fireworks.ai/llms.txt",
         "llms-txt-tokens": 3056
+    },
+    {
+        "product": "Firmly AI",
+        "website": "https://firmly.ai/",
+        "llms-full-txt": "https://docs.firmly.ai/llms-full.txt",
+        "llms-full-txt-tokens": 93678,
+        "llms-txt": "https://docs.firmly.ai/llms.txt",
+        "llms-txt-tokens": 3168
     },
     {
         "product": "Flatfile",
@@ -360,12 +406,32 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "Formwerk",
+        "website": "https://formwerk.dev/",
+        "llms-txt": "https://formwerk.dev/llms.txt",
+        "llms-full-txt": "https://formwerk.dev/llms-full.txt"
+    },
+    {
         "product": "Galileo",
         "website": "https://rungalileo.io/",
         "llms-full-txt": "https://docs.rungalileo.io/llms-full.txt",
         "llms-full-txt-tokens": 144286,
         "llms-txt": "https://docs.rungalileo.io/llms.txt",
         "llms-txt-tokens": 8620
+    },
+    {
+        "product": "Giselle",
+        "website": "https://giselles.ai/",
+        "llms-txt": "https://docs.giselles.ai/llms.txt",
+        "llms-full-txt": "https://docs.giselles.ai/llms-full.txt"
+    },
+    {
+        "product": "General Translation",
+        "website": "https://generaltranslation.com/",
+        "llms-full-txt": "https://generaltranslation.com/llms-full.txt",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://generaltranslation.com/llms.txt",
+        "llms-txt-tokens": null
     },
     {
         "product": "Goody",
@@ -382,6 +448,12 @@
         "llms-txt-tokens": 545,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
+    },
+    {
+        "product": "Hugeicons",
+        "website": "https://hugeicons.com/",
+        "llms-full-txt": "https://cloud.hugeicons.com/llm-full.txt",
+        "llms-txt": "https://cloud.hugeicons.com/llm.txt"
     },
     {
         "product": "Hugging Face Accelerate",
@@ -628,6 +700,14 @@
         "llms-txt-tokens": 2098
     },
     {
+        "product": "MotherDuck",
+        "website": "https://motherduck.com/",
+        "llms-full-txt": "https://motherduck.com/docs/llms-full.txt",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://motherduck.com/docs/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
         "product": "Muspi Merol",
         "website": "https://muspimerol.site",
         "llms-txt": "https://muspimerol.site/llms.txt",
@@ -658,6 +738,14 @@
          "llms-full-txt-tokens": 93201,
          "llms-txt": "https://cloud.needle.tools/llms.txt",
          "llms-txt-tokens": 819
+    },
+    {
+        "product": "Neon",
+        "website": "https://neon.tech/home",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://neon.tech/llms.txt",
+        "llms-txt-tokens": null
     },
     {
         "product": "OpenPhone",
@@ -826,6 +914,14 @@
         "llms-txt-tokens": 15977
     },
     {
+        "product": "SGNL.ai",
+        "website": "https://sgnl.ai",
+        "llms-full-text": "https://sgnl.ai/llms-full.txt",
+        "llms-full-txt-tokens": 1739,
+        "llms-txt": "https://sgnl.ai/llms.txt",
+        "llms-txt-tokens": 1069
+    },
+    {
         "product": "Sherlock Domains",
         "website": "https://sherlockdomains.com/",
         "llms-full-txt": "https://www.sherlockdomains.com/llms-full.txt",
@@ -904,6 +1000,14 @@
         "llms-full-txt-tokens": null,
         "llms-txt": "https://www.thecrawltool.com/llms.txt",
         "llms-txt-tokens": null
+    },
+    {
+        "product": "Thunder Compute",
+        "website": "https://thundercompute.com/",
+        "llms-full-txt": "https://thundercompute.com/docs/llms-full.txt",
+        "llms-full-txt-tokens": 8862,
+        "llms-txt": "https://thundercompute.com/docs/llms.txt",
+        "llms-txt-tokens": 748
     },
     {
         "product": "Tinybird",
@@ -1147,7 +1251,7 @@
         "website": "https://www.zenml.io/",
         "llms-full-txt": "https://www.zenml.io/llms-full.txt",
         "llms-txt": "https://www.zenml.io/llms.txt"
-    },    
+    },
     {
         "product": "Raycast",
         "website": "https://www.raycast.com/",
@@ -1225,6 +1329,14 @@
         "llms-txt-tokens": null,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
+    },
+    {
+        "product": "AI Direct Editor",
+        "website": "https://ai-direct-editor.com",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://ai-direct-editor.com/llms.txt",
+        "llms-txt-tokens": null
     },
     {
         "product": "Goldsky",
@@ -1373,5 +1485,114 @@
       "website": "https://tenthe.com/",
       "llms-txt": "https://tenthe.com/llms.txt",
       "llms-full-txt": "https://tenthe.com/llms-full.txt"
+    },
+     {
+      "product": "Coolify",
+      "website": "https://coolify.io/",
+      "llms-txt": "https://coolify.io/docs/llms.txt",
+      "llms-txt-tokens": null,
+      "llms-full-txt": "https://coolify.io/docs/llms-full.txt",
+    },
+    {
+      "product": "ApyHub",
+      "website": "https://apyhub.com/",
+      "llms-txt": "https://apyhub.com/llms.txt",
+      "llms-full-txt": ""
+    },
+    {
+        "product": "Chainspect",
+        "website": "https://chainspect.app/",
+        "llms-txt": "https://chainspect.app/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
+      "product": "Pass App",
+      "website": "https://pass.app/",
+      "llms-full-txt": "https://pass.app/llms.txt",
+      "llms-txt-tokens": 926,
+      "llms-txt": ""      
+    },
+    {
+      "product": "SVGViewer.app",
+      "website": "https://svgviewer.app/",
+      "llms-txt": "https://svgviewer.app/llms.txt",
+      "llms-txt-tokens": 494,
+      "llms-full-txt": "https://svgviewer.app/llms-full.txt",
+      "llms-full-txt-tokens": 1312
+    },
+    {
+      "product": "QwQ AI",
+      "website": "https://qwq32.com/",
+      "llms-txt": "https://qwq32.com/llms.txt",
+      "llms-txt-tokens": 260,
+      "llms-full-txt": "https://qwq32.com/llms-full.txt",
+      "llms-full-txt-tokens": 260
+    },
+    {
+      "product": "BestFreeAI",
+      "website": "https://bestfreeai.net/",
+      "llms-txt": "https://bestfreeai.net/llms.txt",
+      "llms-txt-tokens": 58670,
+      "llms-full-txt": "",
+      "llms-full-txt-tokens": null
+    },
+    {
+      "product": "LogLayer",
+      "website": "https://loglayer.dev/",
+      "llms-txt": "https://loglayer.dev/llms.txt",
+      "llms-txt-tokens": null,
+      "llms-full-txt": "https://loglayer.dev/llms-full.txt",
+      "llms-full-txt-tokens": null
+    },
+    {
+        "product": "Orma.digital",
+        "website": "https://orma.digital/",
+        "llms-full-txt": "",
+        "llms-txt": "https://www.orma.digital/llms.txt"
+    },
+    {
+        "product": "Dalfox",
+        "website": "https://dalfox.hahwul.com",
+        "llms-txt": "https://dalfox.hahwul.com/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "https://dalfox.hahwul.com/llms-full.txt"
+    },
+    {
+        "product": "Tidio",
+        "website": "https://www.tidio.com/",
+        "llms-full-txt": "https://www.tidio.com/llms-full.txt",
+        "llms-txt": "https://www.tidio.com/llms.txt"
+    },
+    {
+        "product": "QR Code Generator",
+        "website": "https://qrco.au/",
+        "llms-txt": "https://www.qrco.au/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
+        "product": "Tip.md",
+        "website": "https://www.tip.md/",
+        "llms-full-txt": "https://www.tip.md/llms-full.txt",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://www.tip.md/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
+      "product": "Adobe Experience Manager",
+      "website": "https://www.aem.live/",
+      "llms-txt": "https://www.aem.live/llms.txt",
+      "llms-txt-tokens": null,
+      "llms-full-txt": "",
+      "llms-full-txt-tokens": null
+    },
+    {
+        "product": "Yoast",
+        "website": "https://yoast.com/",
+        "llms-full-txt": "",
+        "llms-txt": "https://yoast.com/llms.txt"
     }
 ]
