@@ -442,6 +442,12 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "Grafbase",
+        "website": "https://grafbase.com/",
+        "llms-txt": "https://grafbase.com/llms.txt",
+        "llms-full-txt": "https://grafbase.com/llms-full.txt"
+    },
+    {
         "product": "Helicone",
         "website": "https://helicone.ai/",
         "llms-txt": "https://www.helicone.ai/llms.txt",
