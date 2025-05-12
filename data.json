@@ -1,5 +1,13 @@
 [
     {
+        "product": "Software Testing Services",
+        "website": "https://www.bjstos.com/",
+        "llms-full-txt": "https://www.bjstos.com/llms-full.txt",
+        "llms-full-txt-tokens": 668029 ,
+        "llms-txt": "https://www.bjstos.com/llms.txt",
+        "llms-txt-tokens": 16472
+    },
+    {
         "product": "Mailmodo",
         "website": "https://www.mailmodo.com/",
         "llms-full-txt": "",
