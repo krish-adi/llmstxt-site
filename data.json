@@ -1588,5 +1588,11 @@
         "website": "https://yoast.com/",
         "llms-full-txt": "",
         "llms-txt": "https://yoast.com/llms.txt"
-    }
+    },
+    {
+        "product": "OhDiary",
+        "website": "https://www.ohdiary.com/",
+        "llms-full-txt": "",
+        "llms-txt": "https://www.ohdiary.com/llms.txt"
+    }    
 ]
