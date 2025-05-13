@@ -562,10 +562,8 @@
     {
         "product": "Liam ERD",
         "website": "https://liambx.com/",
-        "llms-txt": "",
-        "llms-txt-tokens": null,
-        "llms-full-txt": "https://liambx.com/docs/llms-full.txt",
-        "llms-full-txt-tokens": 8831
+        "llms-txt": "https://liambx.com/docs/llms.txt",
+        "llms-full-txt": "https://liambx.com/docs/llms-full.txt"
     },
     {
         "product": "LambdaTest",
