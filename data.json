@@ -946,6 +946,14 @@
         "llms-txt-tokens": 5687
     },
     {
+        "product": "Sociality.io",
+        "website": "https://sociality.io/",
+        "llms-txt": "https://sociality.io/llms.txt",
+        "llms-txt-tokens": 1141,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "Solid",
         "website": "https://solidfi.com/",
         "llms-txt": "https://docs.solidfi.com/llms.txt",
