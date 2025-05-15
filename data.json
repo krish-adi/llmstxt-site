@@ -1582,7 +1582,13 @@
       "llms-txt-tokens": null,
       "llms-full-txt": "",
       "llms-full-txt-tokens": null
-    }
+    },
+    {
+        "product": "LiveKit",
+        "website": "https://livekit.io",
+        "llms-txt": "https://docs.livekit.io/llms.txt",
+        "llms-full-txt": "https://docs.livekit.io/llms-full.txt"
+    },
     {
         "product": "Yoast",
         "website": "https://yoast.com/",
