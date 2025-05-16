@@ -1,5 +1,11 @@
 [
     {
+    "product": "Hostinger",
+    "website": "https://hostinger.com/",
+    "llms-full-txt": "https://www.hostinger.com/llms_full.txt",
+    "llms-txt": "https://www.hostinger.com/llms.txt"
+    },
+    {
         "product": "Mailmodo",
         "website": "https://www.mailmodo.com/",
         "llms-full-txt": "",
