@@ -1588,5 +1588,11 @@
         "website": "https://yoast.com/",
         "llms-full-txt": "",
         "llms-txt": "https://yoast.com/llms.txt"
+    },
+    {
+      "product": "The ENT Resident",
+      "website": "https://www.theentresident.com/",
+      "llms-full-txt": "",
+      "llms-txt": "https://www.theentresident.com/llms.txt",
     }
 ]
