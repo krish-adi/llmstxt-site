@@ -1588,5 +1588,11 @@
         "website": "https://yoast.com/",
         "llms-full-txt": "",
         "llms-txt": "https://yoast.com/llms.txt"
-    }
+    },
+    {
+        "product": "Pursuit",
+        "website": "https://pursuit.us/",
+        "llms-full-txt": "",
+        "llms-txt": "https://app.pursuit.us/llms.txt"
+    },
 ]
