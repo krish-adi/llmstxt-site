@@ -1,5 +1,13 @@
 [
     {
+        "product": "Bol Sozluk",
+        "website": "https://www.bolsozluk.com/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://www.bolsozluk.com/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
         "product": "Mailmodo",
         "website": "https://www.mailmodo.com/",
         "llms-full-txt": "",
