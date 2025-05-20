@@ -186,7 +186,7 @@
     {
         "product": "Cloudflare",
         "website": "https://developers.cloudflare.com",
-        "llms-txt": "https://developers.cloudflare.com/llms.txt"
+        "llms-txt": "https://developers.cloudflare.com/llms.txt",
         "llms-full-txt": ""
     },
     {
@@ -1485,7 +1485,7 @@
       "website": "https://coolify.io/",
       "llms-txt": "https://coolify.io/docs/llms.txt",
       "llms-txt-tokens": null,
-      "llms-full-txt": "https://coolify.io/docs/llms-full.txt",
+      "llms-full-txt": "https://coolify.io/docs/llms-full.txt"
     },
     {
       "product": "ApyHub",
@@ -1582,11 +1582,17 @@
       "llms-txt-tokens": null,
       "llms-full-txt": "",
       "llms-full-txt-tokens": null
-    }
+    },
     {
         "product": "Yoast",
         "website": "https://yoast.com/",
         "llms-full-txt": "",
         "llms-txt": "https://yoast.com/llms.txt"
+    },
+    {
+        "product": "TransitionZero",
+        "website": "https://transitionzero.org/",
+        "llms-full-txt": "https://docs.transitionzero.org/llms-full.txt",
+        "llms-txt": "https://docs.transitionzero.org/llms.txt"
     }
 ]
