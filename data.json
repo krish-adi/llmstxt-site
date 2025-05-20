@@ -1582,11 +1582,19 @@
       "llms-txt-tokens": null,
       "llms-full-txt": "",
       "llms-full-txt-tokens": null
-    }
+    },
     {
         "product": "Yoast",
         "website": "https://yoast.com/",
         "llms-full-txt": "",
         "llms-txt": "https://yoast.com/llms.txt"
+    },
+    {
+        "product": "Oaks Home Services, Professional Landscaping Contractor",
+        "website": "https://oakshs.ca/",
+        "llms-txt": "https://oakshs.ca/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     }
 ]
