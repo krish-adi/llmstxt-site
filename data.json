@@ -644,6 +644,14 @@
         "llms-txt-tokens": 2492
     },
     {
+        "product": "Lunacy",
+        "website": "https://icons8.com/lunacy",
+        "llms-full-txt": "https://lunacy.docs.icons8.com/llms-full.txt",
+        "llms-full-txt-tokens": "",
+        "llms-txt": "https://lunacy.docs.icons8.com/llms.txt",
+        "llms-txt-tokens": ""
+    },
+    {
         "product": "LuxAlgo",
         "website": "https://luxalgo.com/",
         "llms-full-txt": "https://docs.luxalgo.com/llms-full.txt",
