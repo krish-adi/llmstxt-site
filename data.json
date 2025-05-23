@@ -946,6 +946,12 @@
         "llms-txt-tokens": 5687
     },
     {
+        "product": "Namekit",
+        "website": "https://namekit.app",
+        "llms-full-txt": "",
+        "llms-txt": "https://namekit.app/llms.txt"
+    },
+    {
         "product": "Solid",
         "website": "https://solidfi.com/",
         "llms-txt": "https://docs.solidfi.com/llms.txt",
