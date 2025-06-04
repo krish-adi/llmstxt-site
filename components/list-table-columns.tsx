@@ -33,6 +33,7 @@ export const columns: ColumnDef<Product>[] = [
         header: "Website",
         cell: ({ row }) => {
             const website = row.getValue("website") as string;
+            if (!website) return null;
             return (
                 <a
                     href={website}
@@ -50,6 +51,7 @@ export const columns: ColumnDef<Product>[] = [
         header: "llms-txt",
         cell: ({ row }) => {
             const url = row.getValue("llms-txt") as string;
+            if (!url) return null;
             return (
                 <a
                     href={url}
@@ -83,6 +85,7 @@ export const columns: ColumnDef<Product>[] = [
         header: "llms-full-txt",
         cell: ({ row }) => {
             const url = row.getValue("llms-full-txt") as string;
+            if (!url) return null;
             return (
                 <a
                     href={url}
