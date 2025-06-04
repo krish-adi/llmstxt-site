@@ -79,6 +79,12 @@
         "llms-txt-tokens": null
     },
     {
+        "product": "MCP Toolbox for Databases",
+        "website": "https://googleapis.github.io/genai-toolbox/",
+        "llms-full-txt": "https://googleapis.github.io/genai-toolbox/llms-full.txt",
+        "llms-txt": "https://googleapis.github.io/genai-toolbox/llms.txt"
+    },
+    {
         "product": "Bun",
         "website": "https://bun.sh/",
         "llms-full-txt": "https://bun.sh/llms-full.txt",
