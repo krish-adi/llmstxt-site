@@ -1943,5 +1943,11 @@
         "website": "https://tenthe.com/",
         "llms-txt": "https://tenthe.com/llms.txt",
         "llms-full-txt": "https://tenthe.com/llms-full.txt"
+    },
+    {
+        "product": "Abstract",
+        "website": "https://www.abs.xyz/",
+        "llms-txt": "https://docs.abs.xyz/llms.txt",
+        "llms-full-txt": "https://docs.abs.xyz/llms-full.txt"
     }
 ]
