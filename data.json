@@ -1943,5 +1943,11 @@
         "website": "https://tenthe.com/",
         "llms-txt": "https://tenthe.com/llms.txt",
         "llms-full-txt": "https://tenthe.com/llms-full.txt"
+    },
+    {
+        "product": "LM Studio",
+        "website": "https://lmstudio.ai/",
+        "llms-txt": "https://lmstudio.ai/llms.txt",
+        "llms-full-txt": "https://lmstudio.ai/llms-full.txt"
     }
 ]
