@@ -1944,4 +1944,11 @@
         "llms-txt": "https://tenthe.com/llms.txt",
         "llms-full-txt": "https://tenthe.com/llms-full.txt"
     }
+        {
+        "product": "Quick Transcript",
+        "website": "https://quicktranscript.app/",
+        "llms-txt": "https://quicktranscript.app/",
+        "llms-full-txt": ""
+    }
+    
 ]
