@@ -1943,5 +1943,11 @@
         "website": "https://tenthe.com/",
         "llms-txt": "https://tenthe.com/llms.txt",
         "llms-full-txt": "https://tenthe.com/llms-full.txt"
+    },
+    {
+        "product": "chanhdai.com",
+        "website": "https://chanhdai.com/",
+        "llms-full-txt": "",
+        "llms-txt": "https://chanhdai.com/llms.txt"
     }
 ]
