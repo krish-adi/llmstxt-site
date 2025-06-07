@@ -1939,6 +1939,12 @@
         "llms-txt": "https://www.estrategiadelcontenido.com/llms.txt"
     },
     {
+  "product": "Sadaghian",
+  "website": "https://sadaghian.com/",
+  "llms-txt": "https://sadaghian.com/llms.txt",
+  "llms-full-txt": "https://sadaghian.com/sadaghian.md"
+    }
+    {
         "product": "Tenthe AI Dictionary",
         "website": "https://tenthe.com/",
         "llms-txt": "https://tenthe.com/llms.txt",
