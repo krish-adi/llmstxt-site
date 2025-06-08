@@ -1943,5 +1943,12 @@
         "website": "https://tenthe.com/",
         "llms-txt": "https://tenthe.com/llms.txt",
         "llms-full-txt": "https://tenthe.com/llms-full.txt"
-    }
+    },
+    {
+        "product": "Webitaly System",
+        "website": "https://webitalysystem.it",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://webitalysystem.it/llms.txt"
+    },
 ]
