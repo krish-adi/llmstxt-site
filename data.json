@@ -1943,5 +1943,11 @@
         "website": "https://tenthe.com/",
         "llms-txt": "https://tenthe.com/llms.txt",
         "llms-full-txt": "https://tenthe.com/llms-full.txt"
+    },
+    {
+        "product": "TwicPics",
+        "website": "https://www.twicpics.com/",
+        "llms-txt": "https://www.twicpics.com/llms.txt",
+        "llms-full-txt": "https://www.twicpics.com/llms-full.txt"
     }
 ]
