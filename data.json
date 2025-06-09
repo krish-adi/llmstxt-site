@@ -1,5 +1,13 @@
 [
     {
+        "product": "Rezi",
+        "website": "https://rezi.ai/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://rezi.ai/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
         "product": "Best Of The Bone",
         "website": "https://bestofthebone.com/",
         "llms-full-txt": "",
