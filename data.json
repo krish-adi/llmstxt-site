@@ -1943,5 +1943,11 @@
         "website": "https://tenthe.com/",
         "llms-txt": "https://tenthe.com/llms.txt",
         "llms-full-txt": "https://tenthe.com/llms-full.txt"
+    },
+    {
+        "product": "Ocasta",
+        "website": "https://ocasta.com/",
+        "llms-txt": "https://ocasta.com/llms.txt",
+        "llms-full-txt": ""
     }
 ]
