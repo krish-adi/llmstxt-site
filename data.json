@@ -1,5 +1,13 @@
 [
     {
+        "product": "Promptmonitor",
+        "website": "https://www.promptmonitor.io",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://www.promptmonitor.io/llms.txt",
+        "llms-txt-tokens": 232
+    },
+    {
         "product": "Best Of The Bone",
         "website": "https://bestofthebone.com/",
         "llms-full-txt": "",
