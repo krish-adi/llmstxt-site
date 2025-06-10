@@ -1943,5 +1943,10 @@
         "website": "https://tenthe.com/",
         "llms-txt": "https://tenthe.com/llms.txt",
         "llms-full-txt": "https://tenthe.com/llms-full.txt"
+    },
+    {
+        "product": "R74n",
+        "website": "https://r74n.com/",
+        "llms-txt": "https://r74n.com/llms.txt"
     }
 ]
