@@ -1943,5 +1943,11 @@
         "website": "https://tenthe.com/",
         "llms-txt": "https://tenthe.com/llms.txt",
         "llms-full-txt": "https://tenthe.com/llms-full.txt"
+    },
+    {
+        "product": "Patchstack",
+        "website": "https://patchstack.com/",
+        "llms-full-txt": "https://docs.patchstack.com/llms-full.txt",
+        "llms-txt": "https://docs.patchstack.com/llms.txt"
     }
 ]
