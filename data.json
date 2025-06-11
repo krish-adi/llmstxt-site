@@ -1,5 +1,11 @@
 [
     {
+        "product": "Localization.Asia",
+        "website": "https://localization.asia/",
+        "llms-full-txt": null,
+        "llms-txt": "httpshttps://localization.asia/llms.txt"
+    },
+    {
         "product": "Best Of The Bone",
         "website": "https://bestofthebone.com/",
         "llms-full-txt": "",
