@@ -1,7 +1,7 @@
 [
     {
         "product": "Langbase",
-        "website": "https://langbase.com/",
+        "website": "https://langbase.com",
         "llms-full-txt": "https://langbase.com/docs/llms.txt",
         "llms-full-txt-tokens": null,
         "llms-txt": "https://langbase.com/docs/llms.txt"
