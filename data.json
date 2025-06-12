@@ -1944,4 +1944,10 @@
         "llms-txt": "https://tenthe.com/llms.txt",
         "llms-full-txt": "https://tenthe.com/llms-full.txt"
     }
+    {
+        "product": "YAMLResume",
+        "website": "https://yamlresume.dev/",
+        "llms-txt": "https://yamlresume.dev/llms.txt",
+        "llms-full-txt": "https://yamlresume.dev/llms-full.txt"
+    }
 ]
