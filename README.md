@@ -1,8 +1,12 @@
 # llmstxt-site
 
+llmstxt-site project has a new home. For new contributions please submit them [here](https://llmstxt.site/submit) !
+
 This is a centralized directory of all /llms.txt files available online. The /llms.txt file is a proposed standard for websites to provide concise and structured information to help large language models (LLMs) efficiently use website content during inference time.
 
 **Contributions are the backbone of this repository’s success. Let’s work together to build a comprehensive resource for /llms.txt files and advance the adoption of this standard for LLM-friendly content!**
+
+The new submission process will make it easy to process the submissions.
 
 ## Purpose
 
@@ -20,27 +24,6 @@ For more details on the /llms.txt proposal, see the background and proposal docu
 
 ## Contributing
 
-We welcome contributions to this repository to expand the collection of /llms.txt files. Follow these steps to contribute:
+We welcome contributions to this repository to expand the collection of /llms.txt files.
 
-1. Fork the Repository to your GitHub account.
-
-2. Edit the data.json file located in the root directory of this repository. Each entry in the JSON file should contain:
-
-You can leave the tokens fields empty: they'll be calculated automatically when your PR is merged.
-
-If you don't have a full-txt file, you can leave the `llms-full-txt` field empty.
-
-Here is an example entry:
-
-```json
-// ...
-{
-    "product": "Anthropic",
-    "website": "https://anthropic.com/",
-    "llms-full-txt": "https://docs.anthropic.com/llms-full.txt",
-    "llms-txt": "https://docs.anthropic.com/llms.txt"
-},
-// ...
-```
-
-3. Submit a Pull Request (PR) with your changes. Please include a small description of the changes and ensure all the entries are accurate and follow the format provided.
+Please submit them [here](https://llmstxt.site/submit) !
