@@ -30,6 +30,6 @@ We welcome contributions to this repository to expand the collection of /llms.tx
 
 Please submit here :
 
-[![Button Submit]](https://llmstxt.site/submit) !
+[![Button Submit]](https://llmstxt.site/submit)
 
 [Button Submit]: https://img.shields.io/badge/Submit_Here-37a779?style=for-the-badge
