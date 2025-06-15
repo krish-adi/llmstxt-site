@@ -1,6 +1,6 @@
 # llmstxt-site
 
-llmstxt-site project has a new home. For new contributions please submit them [here](https://llmstxt.site/submit) !
+llmstxt-site project has a new home. For new contributions please use the form here : [![Submit llms.txt]][https://llmstxt.site/submit]
 
 This is a centralized directory of all /llms.txt files available online. The /llms.txt file is a proposed standard for websites to provide concise and structured information to help large language models (LLMs) efficiently use website content during inference time.
 
